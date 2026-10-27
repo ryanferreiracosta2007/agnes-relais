@@ -173,7 +173,16 @@ def main():
                 u = public_url(path)
                 body = {"model": MODEL, "prompt": f"{prompt}. {STYLE}", "mode": "keyframe",
                         "first_frame": u, "seconds": "6", "size": "720P", "aspect_ratio": "9:16"}
-                res = api("/v1/videos", body)
+                while True:
+                    try:
+                        res = api("/v1/videos", body)
+                        break
+                    except ApiError as e:
+                        if ("queue_full" in e.body or e.code in (429, 503)) and left() > 150:
+                            log(f"[{i}] file Agnes pleine, nouvel essai dans 90 s")
+                            time.sleep(90)
+                            continue
+                        raise
                 vid = res.get("video_id") or res.get("id") or res.get("task_id")
                 open(pend, "w").write(str(vid))
                 log(f"[{i}] lancé ({img})")
