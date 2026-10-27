@@ -1,0 +1,45 @@
+name: Relais Agnes
+
+on:
+  schedule:
+    - cron: "17 * * * *"      # toutes les heures (à hh:17)
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "file_attente/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: relais-agnes
+  cancel-in-progress: false
+
+jobs:
+  relais:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rien à faire ?
+        id: check
+        run: |
+          if ls file_attente/*.txt >/dev/null 2>&1; then echo "todo=1" >> "$GITHUB_OUTPUT"; else echo "Aucune demande."; fi
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.todo == '1'
+        with:
+          python-version: "3.12"
+      - name: Générer les clips
+        if: steps.check.outputs.todo == '1'
+        env:
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+        run: python relais.py
+      - name: Enregistrer les résultats
+        if: always() && steps.check.outputs.todo == '1'
+        run: |
+          git config user.name "relais-agnes"
+          git config user.email "relais-agnes@users.noreply.github.com"
+          git add -A clips file_attente
+          git diff --cached --quiet && exit 0
+          git commit -m "Relais Agnes : mise à jour des clips"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
