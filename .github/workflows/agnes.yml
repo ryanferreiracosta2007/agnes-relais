@@ -2,7 +2,7 @@ name: Relais Agnes
 
 on:
   schedule:
-    - cron: "17 * * * *"      # toutes les heures (à hh:17)
+    - cron: "*/15 * * * *"    # toutes les 15 minutes
   workflow_dispatch: {}
   push:
     paths:
