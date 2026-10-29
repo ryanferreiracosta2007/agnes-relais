@@ -8,7 +8,7 @@ Relais voix Gemini (GitHub Actions) : génère les répliques d'un épisode avec
 - Résultat : voix/<nom>/<id>.wav (24 kHz mono) + STATUT.txt ; la demande passe dans voix_attente/traitees/
 - La clé vient du secret GitHub GEMINI_API_KEY (jamais écrite dans le dépôt ni dans les logs).
 """
-import base64, json, os, shutil, struct, sys, time, urllib.error, urllib.request
+import base64, json, re, os, shutil, struct, sys, time, urllib.error, urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 REQ, OUT = os.path.join(ROOT, "voix_attente"), os.path.join(ROOT, "voix")
@@ -60,6 +60,7 @@ def to_wav(raw, mime):
 
 def tts(model, text, style, voice):
     if model.startswith("gemini-2.5"):
+        text = re.sub(r"<[^>]+>", "", text).strip()
         prompt = f"Dis en français, sur ce ton : {style}. Texte : {text}" if style else text
         body = {"contents": [{"parts": [{"text": prompt}]}],
                 "generationConfig": {"responseModalities": ["AUDIO"],

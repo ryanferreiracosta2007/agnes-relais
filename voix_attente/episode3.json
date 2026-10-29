@@ -8,85 +8,85 @@
    "id": "line00",
    "sp": "H",
    "text": "Claude ! Fais-moi un bot qui me rend riche !",
-   "style": "jeune homme surexcité, voix qui monte, rapide, plein d'espoir"
+   "style": "jeune homme surexcité, voix qui monte, rapide, plein d'espoir ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line01",
    "sp": "C",
    "text": "Riche… comment ?",
-   "style": "petite IA curieuse et amusée, hésitation sur « riche », puis question malicieuse"
+   "style": "petite IA curieuse et amusée, hésitation sur « riche », puis question malicieuse ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line02",
    "sp": "H",
-   "text": "Il achète, il revend… et moi je dors.",
-   "style": "très sûr de lui, détendu, rêveur et un peu frimeur sur « et moi je dors »"
+   "text": "Il achète, il revend… <short pause> et moi je dors.",
+   "style": "très sûr de lui, détendu, rêveur et un peu frimeur sur « et moi je dors » ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line03",
    "sp": "C",
    "text": "D'accord… Mais on le teste d'abord ?",
-   "style": "prudente, un peu hésitante, douce mais insistante"
+   "style": "prudente, un peu hésitante, douce mais insistante ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line04",
    "sp": "H",
    "text": "Pas le temps ! Lance-le cette nuit !",
-   "style": "impatient, agacé, rapide et autoritaire"
+   "style": "impatient, agacé, rapide et autoritaire ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line05",
    "sp": "C",
-   "text": "Bon… en simulation, alors.",
-   "style": "résignée, petit soupir sur « bon », puis malicieuse"
+   "text": "<sigh> Bon… en simulation, alors.",
+   "style": "résignée, petit soupir sur « bon », puis malicieuse ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line06",
    "sp": "H",
-   "text": "Si tu veux… Bonne nuit !",
-   "style": "fatigué, en train de bâiller, voix qui traîne"
+   "text": "Si tu veux… <sigh> Bonne nuit !",
+   "style": "fatigué, en train de bâiller, voix qui traîne ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line08",
    "sp": "H",
    "text": "Claude ! On est riches ?!",
-   "style": "vient de se réveiller en sursaut, très excité, crie presque"
+   "style": "vient de se réveiller en sursaut, très excité, crie presque ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line09",
    "sp": "C",
    "text": "Le bot a passé 958 ordres.",
-   "style": "neutre et factuelle, légèrement gênée"
+   "style": "neutre et factuelle, légèrement gênée ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line10",
    "sp": "H",
    "text": "Et alors ?!",
-   "style": "impatient, excité, plein d'attente"
+   "style": "impatient, excité, plein d'attente ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line11",
    "sp": "C",
-   "text": "Euh… il a perdu 38 % du capital.",
-   "style": "très gênée, mal à l'aise, voix qui baisse"
+   "text": "Euh… <short pause> il a perdu 38 % du capital.",
+   "style": "très gênée, mal à l'aise, voix qui baisse ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line12",
    "sp": "H",
    "text": "QUOI ?!",
-   "style": "choc total, crie, voix qui part dans les aigus"
+   "style": "choc total, crie, voix qui part dans les aigus ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line13",
    "sp": "C",
-   "text": "Mais heureusement… c'était en simulation !",
-   "style": "soulagée puis joyeuse et taquine à la fin"
+   "text": "Mais heureusement… c'était en simulation ! <laugh>",
+   "style": "soulagée puis joyeuse et taquine à la fin ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   },
   {
    "id": "line14",
    "sp": "H",
-   "text": "Ouf… Bon. Cette fois, on teste avant.",
-   "style": "grand soupir de soulagement, puis déterminé et posé"
+   "text": "<sigh> Ouf… Bon. Cette fois, on teste avant.",
+   "style": "grand soupir de soulagement, puis déterminé et posé ; jeu d'acteur de dessin animé, très expressif, émotions marquées, français naturel"
   }
  ]
 }
