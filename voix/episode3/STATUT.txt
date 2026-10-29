@@ -1,2 +1,1 @@
-EN COURS : 12/14 répliques, modèle gemini-3.8-flash-tts
-manquantes : line11, line14
+TERMINE : 14/14 répliques, modèle gemini-3.8-flash-tts
