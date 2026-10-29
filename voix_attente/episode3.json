@@ -1,0 +1,92 @@
+{
+ "voices": {
+  "H": "Fenrir",
+  "C": "Leda"
+ },
+ "lines": [
+  {
+   "id": "line00",
+   "sp": "H",
+   "text": "Claude ! Fais-moi un bot qui me rend riche !",
+   "style": "jeune homme surexcité, voix qui monte, rapide, plein d'espoir"
+  },
+  {
+   "id": "line01",
+   "sp": "C",
+   "text": "Riche… comment ?",
+   "style": "petite IA curieuse et amusée, hésitation sur « riche », puis question malicieuse"
+  },
+  {
+   "id": "line02",
+   "sp": "H",
+   "text": "Il achète, il revend… et moi je dors.",
+   "style": "très sûr de lui, détendu, rêveur et un peu frimeur sur « et moi je dors »"
+  },
+  {
+   "id": "line03",
+   "sp": "C",
+   "text": "D'accord… Mais on le teste d'abord ?",
+   "style": "prudente, un peu hésitante, douce mais insistante"
+  },
+  {
+   "id": "line04",
+   "sp": "H",
+   "text": "Pas le temps ! Lance-le cette nuit !",
+   "style": "impatient, agacé, rapide et autoritaire"
+  },
+  {
+   "id": "line05",
+   "sp": "C",
+   "text": "Bon… en simulation, alors.",
+   "style": "résignée, petit soupir sur « bon », puis malicieuse"
+  },
+  {
+   "id": "line06",
+   "sp": "H",
+   "text": "Si tu veux… Bonne nuit !",
+   "style": "fatigué, en train de bâiller, voix qui traîne"
+  },
+  {
+   "id": "line08",
+   "sp": "H",
+   "text": "Claude ! On est riches ?!",
+   "style": "vient de se réveiller en sursaut, très excité, crie presque"
+  },
+  {
+   "id": "line09",
+   "sp": "C",
+   "text": "Le bot a passé 958 ordres.",
+   "style": "neutre et factuelle, légèrement gênée"
+  },
+  {
+   "id": "line10",
+   "sp": "H",
+   "text": "Et alors ?!",
+   "style": "impatient, excité, plein d'attente"
+  },
+  {
+   "id": "line11",
+   "sp": "C",
+   "text": "Euh… il a perdu 38 % du capital.",
+   "style": "très gênée, mal à l'aise, voix qui baisse"
+  },
+  {
+   "id": "line12",
+   "sp": "H",
+   "text": "QUOI ?!",
+   "style": "choc total, crie, voix qui part dans les aigus"
+  },
+  {
+   "id": "line13",
+   "sp": "C",
+   "text": "Mais heureusement… c'était en simulation !",
+   "style": "soulagée puis joyeuse et taquine à la fin"
+  },
+  {
+   "id": "line14",
+   "sp": "H",
+   "text": "Ouf… Bon. Cette fois, on teste avant.",
+   "style": "grand soupir de soulagement, puis déterminé et posé"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+name: Voix Gemini
+
+on:
+  push:
+    paths:
+      - "voix_attente/**"
+      - "voix_gemini.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voix-gemini
+  cancel-in-progress: false
+
+jobs:
+  voix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rien à faire ?
+        id: check
+        run: |
+          if ls voix_attente/*.json >/dev/null 2>&1; then echo "todo=1" >> "$GITHUB_OUTPUT"; else echo "Aucune demande."; fi
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.todo == '1'
+        with:
+          python-version: "3.12"
+      - name: Générer les voix
+        if: steps.check.outputs.todo == '1'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python voix_gemini.py
+      - name: Enregistrer les voix
+        if: always() && steps.check.outputs.todo == '1'
+        run: |
+          git config user.name "relais-voix"
+          git config user.email "relais-voix@users.noreply.github.com"
+          git add -A voix voix_attente
+          git diff --cached --quiet && exit 0
+          git commit -m "Voix Gemini : nouvelles répliques"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
