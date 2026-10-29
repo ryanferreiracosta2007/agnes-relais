@@ -15,7 +15,7 @@ REQ, OUT = os.path.join(ROOT, "voix_attente"), os.path.join(ROOT, "voix")
 DONE = os.path.join(REQ, "traitees")
 KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 BASE = "https://generativelanguage.googleapis.com/v1beta"
-MODELS = [m for m in os.environ.get("GEMINI_TTS_MODELS", "gemini-3.8-flash-tts,gemini-3.1-flash-tts-preview,gemini-2.5-flash-preview-tts").split(",") if m]
+MODELS = [m for m in os.environ.get("GEMINI_TTS_MODELS", "gemini-3.8-flash-tts,gemini-3.1-flash-tts-preview,gemini-3.8-flash-lite-tts,gemini-2.5-pro-preview-tts,gemini-2.5-flash-preview-tts").split(",") if m]
 
 
 def log(m):
@@ -88,6 +88,7 @@ def main():
     if not reqs:
         log("Aucune demande."); return
     model_ok = None
+    exhausted = set()
     for rf in reqs:
         name = os.path.splitext(rf)[0]; folder = os.path.join(OUT, name); os.makedirs(folder, exist_ok=True)
         spec = json.load(open(os.path.join(REQ, rf), encoding="utf-8-sig"))
@@ -99,7 +100,8 @@ def main():
                 done += 1; continue
             voice = ln.get("voice") or voices.get(ln.get("sp"), "Puck")
             for attempt in range(6):
-                models = [model_ok] if model_ok else MODELS
+                models = ([model_ok] if model_ok else []) + [m for m in MODELS if m != model_ok and m not in exhausted]
+                models = [m for m in models if m not in exhausted]
                 err = None
                 for m in models:
                     try:
@@ -111,6 +113,10 @@ def main():
                         if e.code == 401 or e.code == 403:
                             sys.exit(f"Clé refusée ({e.code}) : vérifie le secret GEMINI_API_KEY. {body}")
                         if e.code == 429:
+                            if "per day" in body or "quota" in body.lower():
+                                exhausted.add(m); log(f"quota du jour atteint pour {m}, modèle suivant")
+                                if m == model_ok: model_ok = None
+                                continue
                             break
                     except Exception as e:
                         err = f"{m} {e}"
