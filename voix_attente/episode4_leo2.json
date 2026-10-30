@@ -1,0 +1,59 @@
+{
+ "models": [
+  "gemini-3.1-flash-tts-preview",
+  "gemini-2.5-pro-preview-tts"
+ ],
+ "voices": {
+  "H": "Fenrir"
+ },
+ "lines": [
+  {
+   "id": "l01",
+   "sp": "H",
+   "text": "Wallah Claude, t'es un botch ! Fais le bot !",
+   "style": "léger accent du sud de la France, naturel, jeune homme qui joue la racaille, énervé et surexcité, presque en criant ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l04",
+   "sp": "H",
+   "text": "Wesh… wallah… c'est dosé.",
+   "style": "léger accent du sud de la France, naturel, s'entraîne devant le miroir à parler comme une racaille, de plus en plus sûr de lui ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l05",
+   "sp": "H",
+   "text": "Wallah frérot, un bot qui fait des liasses !",
+   "style": "léger accent du sud de la France, naturel, les yeux qui brillent, excité, rêve d'argent facile ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l05h",
+   "sp": "H",
+   "text": "Non ! Moi c'est pas Léo… c'est Hamza, wallah !",
+   "style": "léger accent du sud de la France, naturel, vexé, corrige fièrement son nouveau surnom de racaille, bombe le torse ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l07",
+   "sp": "H",
+   "text": "Wallah t'es un botch ! Fais le bot, j'te dis !",
+   "style": "léger accent du sud de la France, naturel, en colère, tape du pied, crie, un peu ridicule ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l09",
+   "sp": "H",
+   "text": "Wallah tu m'cherches, Claude ?",
+   "style": "léger accent du sud de la France, naturel, essaie d'être menaçant avec une voix grave forcée, ça sonne faux et ridicule ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l11",
+   "sp": "H",
+   "text": "Oui, d'accord. Merci Claude.",
+   "style": "léger accent du sud de la France, naturel, gêné, petite voix polie, comme un enfant pris en faute ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  },
+  {
+   "id": "l12",
+   "sp": "H",
+   "text": "Wallah c'est dosé quand même.",
+   "style": "léger accent du sud de la France, naturel, se reprend, marmonne pour sauver la face, faussement cool ; débit rapide et naturel, pas de pauses inutiles ; même voix sur toutes les répliques, jeu d'acteur de dessin animé expressif"
+  }
+ ]
+}
