@@ -1,0 +1,87 @@
+{
+ "voices": {
+  "H": "Fenrir",
+  "K": "Puck",
+  "C": "Leda"
+ },
+ "lines": [
+  {
+   "id": "l01",
+   "sp": "H",
+   "text": "Wallah Claudeuh, t'es un botch ! Fais le boteuh !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), jeune homme qui joue la racaille, énervé et surexcité, crie presque, débit rapide ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l02",
+   "sp": "K",
+   "text": "Vive la France !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), petit garçon de douze ans, fier, joyeux, plein d'enthousiasme, la main sur le cœur ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l03",
+   "sp": "K",
+   "text": "Bonjour Claude ! Tu pourrais m'aider, s'il te plaît ?",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), petit garçon de douze ans très poli, doux, souriant, adorable ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l04",
+   "sp": "H",
+   "text": "Wesh… <short pause> wallah… <short pause> c'est dosé.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), s'entraîne devant le miroir à parler comme une racaille : d'abord hésitant, puis de plus en plus grave et sûr de lui ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l05",
+   "sp": "H",
+   "text": "Wallah frérot, un boteuh qui fait des liasses !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), les yeux qui brillent, excité, rêve d'argent facile ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l06",
+   "sp": "C",
+   "text": "Ça n'existe pas, un bot qui gagne à coup sûr.",
+   "style": "petite IA bienveillante, très calme et posée, douce ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l07",
+   "sp": "H",
+   "text": "Wallah t'es un botch ! Fais le boteuh, j'te dis !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), en colère, tape du pied, crie, mais un peu ridicule ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l08",
+   "sp": "C",
+   "text": "Si on le lance sans le tester, tu peux tout perdre.",
+   "style": "très calme, patiente, rassurante, pas impressionnée ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l09",
+   "sp": "H",
+   "text": "Wallah tu m'cherches, Claudeuh ?",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), essaie d'être menaçant avec une voix grave forcée, mais ça sonne faux et un peu ridicule ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l10",
+   "sp": "C",
+   "text": "Tu veux qu'on le teste en simulation ?",
+   "style": "calme, gentille, légèrement amusée, propose avec douceur ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l11",
+   "sp": "H",
+   "text": "…Oui, d'accord. <short pause> Merci Claude.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), gêné, toute petite voix polie, comme un enfant pris en faute ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l12",
+   "sp": "H",
+   "text": "Wallah c'est dosé quand même.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), se reprend, marmonne pour sauver la face, faussement cool ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l13",
+   "sp": "H",
+   "text": "Cocoricooooo !",
+   "style": "imite un vrai coq de ferme qui chante, très fort, aigu et long ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}
