@@ -1,0 +1,25 @@
+{
+ "voices": {
+  "C": "Leda"
+ },
+ "lines": [
+  {
+   "id": "l06",
+   "sp": "C",
+   "text": "Léo, ça n'existe pas, un bot qui gagne à coup sûr.",
+   "style": "petite IA bienveillante, très calme et posée, douce ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l08",
+   "sp": "C",
+   "text": "Léo, si on le lance sans le tester, tu peux tout perdre.",
+   "style": "très calme, patiente, rassurante, pas impressionnée ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "l10",
+   "sp": "C",
+   "text": "Léo… tu veux qu'on le teste en simulation ?",
+   "style": "calme, gentille, légèrement amusée, propose avec douceur ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}
