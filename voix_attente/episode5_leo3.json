@@ -1,0 +1,17 @@
+{
+ "voices": {
+  "H": "Fenrir"
+ },
+ "models": [
+  "gemini-3.8-flash-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "ge",
+   "sp": "H",
+   "text": "La sacoche… la casquette… Wallah, j'suis un vrai d'la street. <long pause> Mon planning de la street. Six heures : nourrir les coqs. Huit heures : faire le bot. Midi : bœuf bourguignon chez maman. Wallah, c'est carré.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), essaie d'être menaçant avec une voix grave forcée, mais ça sonne faux et un peu ridicule, très fier de lui ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}
