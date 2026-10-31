@@ -1,0 +1,42 @@
+{
+ "voices": {
+  "H": "Fenrir",
+  "M": "Kore"
+ },
+ "models": [
+  "gemini-3.8-flash-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "ga",
+   "sp": "H",
+   "text": "Cocorico ! Qu'elle est belle, la France ! <long pause> Baguette, béret, et mes coqs… la belle vie ! <long pause> Oh fan de chichourle ! C'est qui, ces mecs ? Ils ont trop la classe ! <long pause> Wallah ? C'est quoi, wallah ? … Wallah !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), jeune homme fier d'être français, joyeux et plein d'entrain, puis curieux et émerveillé ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "gb",
+   "sp": "H",
+   "text": "Wesh… wallah… c'est dosé. <long pause> À partir d'aujourd'hui… appelez-moi Hamza, wallah. <long pause> Wallah frérot, un bot qui fait des liasses ! <long pause> Non ! Moi c'est pas Léo… c'est Hamza, wallah ! <long pause> Wallah Claude, t'es un botch ! Fais le bot, j'te dis ! <long pause> Wallah tu m'cherches, Claude ? <long pause> Wallah c'est dosé quand même.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), essaie d'être menaçant avec une voix grave forcée, mais ça sonne faux et un peu ridicule ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "gc",
+   "sp": "H",
+   "text": "Wallah… d'accord. Merci Claude.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), gêné, toute petite voix polie, comme un enfant pris en faute ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "gd",
+   "sp": "H",
+   "text": "Oh, un bœuf bourguignon ! J'arrive, maman !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), retrouve d'un coup sa voix normale de gentil garçon, ravi et gourmand ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "gm",
+   "sp": "M",
+   "text": "Léo ! À table ! J'ai fait un bon bœuf bourguignon !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), maman du Sud chaleureuse qui appelle son fils depuis le rez-de-chaussée, fière de son plat ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}

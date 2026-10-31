@@ -1,0 +1,17 @@
+{
+ "voices": {
+  "C": "Leda"
+ },
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview"
+ ],
+ "lines": [
+  {
+   "id": "gclaude",
+   "sp": "C",
+   "text": "Léo, un bot qui gagne à coup sûr, ça n'existe pas. <long pause> Léo… pardon, Hamza. Sans le tester, tu peux tout perdre. <long pause> Léo, on peut d'abord le tester en simulation ? <long pause> Léo, non. Je veux juste pas que tu perdes ton argent. <long pause> Léo… bon appétit, Hamza.",
+   "style": "petite IA bienveillante, très calme, posée et douce, jamais impressionnée, légèrement amusée ; débit rapide et naturel ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}

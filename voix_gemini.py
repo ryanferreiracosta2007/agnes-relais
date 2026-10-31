@@ -94,7 +94,7 @@ def main():
         spec = json.load(open(os.path.join(REQ, rf), encoding="utf-8-sig"))
         voices = spec.get("voices", {}); lines = spec["lines"]; done = 0; errors = []
         if spec.get("models"):   # modèle imposé pour garder la même voix sur toutes les répliques
-            MODELS[:] = spec["models"] + [m for m in MODELS if m not in spec["models"]]
+            MODELS[:] = spec["models"] + ([] if spec.get("strict") else [m for m in MODELS if m not in spec["models"]])
             model_ok = None
         log(f"=== {rf} : {len(lines)} réplique(s) ===")
         for ln in lines:
