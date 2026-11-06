@@ -1,0 +1,17 @@
+{
+ "voices": {
+  "H": "Fenrir"
+ },
+ "models": [
+  "gemini-3.8-flash-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "hc",
+   "sp": "H",
+   "text": "Wallah… c'est dosé.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), voix grave forcée de caïd qui fond complètement, charmé et amoureux, tout doux ; articule bien « c'est do-sé » ; débit naturel ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}
