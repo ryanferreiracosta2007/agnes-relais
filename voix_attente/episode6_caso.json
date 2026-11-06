@@ -1,0 +1,71 @@
+{
+ "voices": {
+  "H": "Fenrir",
+  "K": "Enceladus",
+  "P": "Algenib",
+  "R": "Gacrux",
+  "A": "Puck",
+  "B": "Zephyr",
+  "M": "Kore"
+ },
+ "models": [
+  "gemini-3.8-flash-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "kb",
+   "sp": "K",
+   "text": "Pardon… c'était pas fait exprès. <long pause> Papa… j'aime les hommes. <long pause> Oui madame… merci. <long pause> Hamza…",
+   "style": "jeune homme français de 20 ans, accent français standard, voix douce et timide, un peu hésitante, il rougit, parle doucement ; la deuxième phrase est un aveu ému, la voix tremble un peu ; la dernière est un murmure bouleversé, au bord des larmes de joie ; débit naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "ka",
+   "sp": "K",
+   "text": "Caso récupère le ballon… il accélère… petit pont ! <long pause> Coup de théâtre… le père égalise ! <long pause> Et le public… est en feu.",
+   "style": "jeune homme français de 20 ans, accent français standard, voix douce et timide, un peu hésitante, il commente sa propre vie à voix basse comme un commentateur de match de foot à la télé, chuchoté au début puis de plus en plus excité, avec des petites pauses dramatiques ; débit naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "ha",
+   "sp": "H",
+   "text": "Wallah… tu m'as fait un petit pont ? <long pause> Wallah, une paire de chaussettes… et le sourire de Caso. <long pause> Wallah maman, c'est le meilleur de France.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), essaie d'être un caïd avec une voix grave forcée, mais ça sonne faux et un peu ridicule ; d'abord vexé, puis charmeur, puis gourmand et fier ; débit naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "hb",
+   "sp": "H",
+   "text": "Wallah… c'est dosé. <long pause> Caso… ouvre-le.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), voix grave forcée de caïd qui fond complètement, amoureux et ému, tout doux, un peu intimidé ; débit naturel ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "pa",
+   "sp": "P",
+   "text": "Je le sais, fiston… moi aussi.",
+   "style": "père français d'une cinquantaine d'années, voix grave et chaleureuse, très calme, avec un léger sourire dans la voix, comme une révélation tranquille ; débit lent ; jeu d'acteur de dessin animé"
+  },
+  {
+   "id": "ra",
+   "sp": "R",
+   "text": "Passez-moi le sel, les garçons.",
+   "style": "mère française d'une cinquantaine d'années, totalement impassible et blasée, comme si de rien n'était, ton pince-sans-rire ; jeu d'acteur de dessin animé"
+  },
+  {
+   "id": "aa",
+   "sp": "A",
+   "text": "Encore lui ? Douze paires de chaussettes cette semaine…",
+   "style": "jeune vendeur français dans un magasin de sport, chuchote à sa collègue d'un air complice et amusé, très commère ; débit rapide ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "ba",
+   "sp": "B",
+   "text": "J'le savais ! Tu me dois dix balles.",
+   "style": "jeune vendeuse française, triomphante et surexcitée, elle a gagné son pari ; débit rapide ; jeu d'acteur de dessin animé, très expressif"
+  },
+  {
+   "id": "ma",
+   "sp": "M",
+   "text": "Encore un peu de bœuf bourguignon, Caso ?",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), maman du Sud chaleureuse et un peu envahissante, ravie de recevoir le petit ami de son fils, fière de son plat ; débit naturel ; jeu d'acteur de dessin animé, très expressif"
+  }
+ ]
+}
