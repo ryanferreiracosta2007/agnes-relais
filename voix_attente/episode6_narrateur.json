@@ -1,0 +1,23 @@
+{
+ "voices": {
+  "N": "Charon"
+ },
+ "models": [
+  "gemini-3.8-flash-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "na",
+   "sp": "N",
+   "text": "Lui, c'est Caso. Il n'enlève jamais ses lunettes… et il commente sa vie comme un match de foot. <long pause> Et lui, c'est Hamza. Personne ne lui a jamais fait de petit pont. <long pause> Ce jour-là, Hamza est tombé deux fois : sur le terrain… et amoureux. <long pause> Six mois plus tard, Caso a un secret à dire à ses parents.",
+   "style": "narrateur français de documentaire TikTok, voix grave chaleureuse et posée, un peu amusée et complice, comme quelqu'un qui raconte une belle histoire d'amour avec humour ; diction claire ; marque bien les pauses sur les points de suspension ; accent français standard"
+  },
+  {
+   "id": "nb",
+   "sp": "N",
+   "text": "Au boulot, ses collègues ont fait un pari : ce client qui passe tous les jours… c'est son copain ? <long pause> Dimanche, les deux familles se rencontrent… chez la maman de Hamza. <long pause> Un an plus tard, Hamza a préparé une surprise.",
+   "style": "narrateur français de documentaire TikTok, voix grave chaleureuse et posée, un peu amusée et complice, comme quelqu'un qui raconte une belle histoire d'amour avec humour ; diction claire ; marque bien les pauses sur les points de suspension ; accent français standard"
+  }
+ ]
+}
