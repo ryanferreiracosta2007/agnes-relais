@@ -1,0 +1,52 @@
+{
+ "voices": {
+  "H": "Fenrir",
+  "N": "Charon",
+  "J": "Alnilam",
+  "P": "Orus",
+  "G": "Iapetus",
+  "X": "Algenib"
+ },
+ "models": [
+  "gemini-3.8-flash-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "e7h",
+   "sp": "H",
+   "text": "Wallah… c'est dosé. <long pause> Wallah, c'est des chaussettes, frère !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), voix grave forcée de caïd ; jeu d'acteur de dessin animé, très expressif ; première réplique : totalement calme et blasé, impassible, comme si on lui annonçait la météo, articule bien « c'est do-sé » ; deuxième réplique : paniqué et indigné, il lève les mains"
+  },
+  {
+   "id": "e7n",
+   "sp": "N",
+   "text": "Ça fait quoi… de prendre perpète en France… pendant une manif ? <long pause> Quarante-huit heures plus tôt. Hamza voulait juste… acheter des chaussettes. <long pause> Erreur judiciaire. Matricule huit cent seize. Bienvenue en prison. <long pause> Cellule un… ou cellule deux ? C'est vous qui décidez.",
+   "style": "narrateur français de documentaire TikTok, voix grave chaleureuse et posée, mystérieux et amusé, ménage le suspense ; la première phrase est une accroche intrigante qui donne envie de rester ; diction claire ; accent français standard"
+  },
+  {
+   "id": "e7j",
+   "sp": "J",
+   "text": "Monsieur Hamza… la cour vous condamne… à la réclusion criminelle… à perpétuité !",
+   "style": "juge français âgé, voix grave et solennelle, très théâtral et sévère, il appuie lourdement sur « perpétuité » comme une sentence de film ; accent français standard ; jeu d'acteur de dessin animé"
+  },
+  {
+   "id": "e7p",
+   "sp": "P",
+   "text": "Vous, là ! Avec les chaussettes ! Contre le mur !",
+   "style": "policier français pressé et autoritaire qui crie au milieu d'une manifestation, un peu ridicule ; accent français standard ; jeu d'acteur de dessin animé"
+  },
+  {
+   "id": "e7g",
+   "sp": "G",
+   "text": "Bon. Le huit cent seize. Cellule un… ou cellule deux ?",
+   "style": "gardien de prison français blasé et fatigué, voix nasale traînante, il s'en fiche complètement ; accent français standard ; jeu d'acteur de dessin animé"
+  },
+  {
+   "id": "e7x",
+   "sp": "X",
+   "text": "Entre.",
+   "style": "détenu colossal et terrifiant, voix extrêmement grave, profonde et lente, menaçante, presque un grognement ; accent français standard ; jeu d'acteur de dessin animé"
+  }
+ ]
+}
