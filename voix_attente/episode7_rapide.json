@@ -1,0 +1,22 @@
+{
+ "voices": {"H": "Fenrir", "N": "Charon", "J": "Alnilam", "P": "Orus", "G": "Iapetus"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "r7h", "sp": "H",
+   "text": "Wallah, c'est dosé. <long pause> Wallah, c'est des chaussettes, frère ! <long pause> Garde à vue pour des chaussettes ? Wallah c'est dosé ! Demain matin je suis dehors, frère. Ils vont rien me mettre !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), voix grave de petit caïd ; jeu d'acteur de dessin animé, très expressif, débit RAPIDE et nerveux, aucune hésitation ; première réplique : blasé et sec, dit vite « Wallah, c'est dosé » sans pause ; deuxième réplique : paniqué et indigné, presque crié ; troisième réplique : allongé tranquille, ultra confiant et moqueur, il rigole à moitié, sûr de lui"},
+  {"id": "r7n", "sp": "N",
+   "text": "Ça fait quoi de prendre perpète en France… pendant une manif ? <long pause> Quarante-huit heures plus tôt. Hamza voulait juste acheter des chaussettes. <long pause> Spoiler : il a pris perpète. <long pause> Matricule huit cent seize. Bienvenue en prison. <long pause> Cellule un ou cellule deux ? C'est vous qui décidez !",
+   "style": "narrateur français de TikTok, voix grave et punchy, rythme RAPIDE et énergique, ton amusé et complice ; accroche percutante dite d'un trait avec juste une courte pause avant « pendant une manif » ; « Spoiler : il a pris perpète » dit sèchement, pince-sans-rire ; diction claire ; accent français standard"},
+  {"id": "r7j", "sp": "J",
+   "text": "Monsieur Hamza, la cour vous condamne à la réclusion criminelle à perpétuité !",
+   "style": "juge français âgé, voix grave, sévère et théâtrale ; débit RAPIDE en crescendo, d'un seul souffle, il hurle « perpétuité » comme un coup de marteau ; accent français standard ; jeu d'acteur de dessin animé"},
+  {"id": "r7p", "sp": "P",
+   "text": "Vous, là ! Avec les chaussettes ! Contre le mur !",
+   "style": "policier français surexcité qui crie très vite au milieu d'une manifestation, un peu ridicule ; débit rapide, ordres secs ; accent français standard ; jeu d'acteur de dessin animé"},
+  {"id": "r7g", "sp": "G",
+   "text": "Bon, le huit cent seize. Cellule un ou cellule deux ?",
+   "style": "gardien de prison français blasé, voix nasale, il s'en fiche, mais débit assez rapide et sec, sans traîner ; accent français standard ; jeu d'acteur de dessin animé"}
+ ]
+}
