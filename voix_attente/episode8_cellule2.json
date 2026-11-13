@@ -1,0 +1,22 @@
+{
+ "voices": {"H": "Fenrir", "N": "Charon", "K": "Enceladus", "X": "Algenib", "V": "Gacrux"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "r8h", "sp": "H",
+   "text": "Oh, c'est qui ce botch ? <long pause> Oh ! Ça, c'est mon lit. Toi, tu dors en bas. <long pause> Aïe ! Mon dos ! <long pause> Il est nul à chier ton plan, frère. T'inquiète, j'ai mon ami le Z qui va m'aider. <long pause> Wallah… c'est dosé.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), voix grave forcée de petit caïd ; jeu d'acteur de dessin animé, très expressif, débit RAPIDE ; première réplique : surpris et méfiant, il crâne ; deuxième : il fait le chef, sûr de lui ; troisième : cri de douleur comique ; quatrième : moqueur puis ultra confiant ; dernière : à voix basse, il a peur, il déglutit"},
+  {"id": "r8n", "sp": "N",
+   "text": "Vous avez choisi… le mystère. <long pause> Il se débrouille tout seul… ou il y va avec l'équipe du Big ? C'est vous qui décidez !",
+   "style": "narrateur français de TikTok, voix grave et punchy, ton amusé et complice ; la première phrase avec une petite pause de suspense avant « le mystère » ; la question finale rapide et énergique ; diction claire ; accent français standard"},
+  {"id": "r8k", "sp": "K",
+   "text": "Grrr… mmmh… <long pause> Hmpf ! <long pause> Mm-mm.",
+   "style": "jeune homme timide qui dort, il ne parle pas : d'abord un grognement endormi et grave, ensuite un « hmpf » étouffé quand quelqu'un lui tombe dessus, enfin un petit « mm-mm » apeuré pour dire non ; aucun mot"},
+  {"id": "r8x", "sp": "X",
+   "text": "Hamza… On va parler, toi et moi… mon grand.",
+   "style": "détenu colossal et terrifiant qui chuchote dans l'oreille, voix extrêmement grave, profonde, lente et menaçante, presque un grognement, souffle audible ; accent français standard"},
+  {"id": "r8v", "sp": "V",
+   "text": "Moi, les nouveaux… je les baptise. <long pause> Ce soir, vingt heures, à la douche… quand y a personne. <long pause> Toi et moi… on va bien s'éclater.",
+   "style": "vieux gardien de prison français, gros, la soixantaine, voix rauque et éraillée de vieux fumeur, lente, inquiétante et pleine de sous-entendus, petit rire sadique ; accent français populaire ; jeu d'acteur de dessin animé"}
+ ]
+}
