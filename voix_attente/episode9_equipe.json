@@ -1,0 +1,28 @@
+{
+ "voices": {"H": "Fenrir", "N": "Charon", "K": "Enceladus", "X": "Algenib", "V": "Gacrux", "S": "Puck", "M": "Orus"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "r9h", "sp": "H",
+   "text": "Le Big ! Je fais tout ce que tu veux ! Mais faut que tu m'aides, le gardien il veut m'attaquer ! <long pause> Recule ! Recule ! <long pause> Mais laissez-moi rentrer ! Moi aussi je veux me battre ! <long pause> Bah ouais… c'est dosé, tu connais.",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), petit caïd ; jeu d'acteur de dessin animé, très expressif, débit RAPIDE ; première réplique : essoufflé, paniqué, il supplie ; deuxième : il crie, terrorisé, en brandissant une arme ridicule ; troisième : il fait le dur, vexé, plein d'énergie ; dernière : détendu, il frime, comme si de rien n'était"},
+  {"id": "r9n", "sp": "N",
+   "text": "Vous avez choisi… l'équipe du Big. <long pause> Il cherche la clé tout seul… ou il demande à Caso de l'aider ? C'est vous qui décidez !",
+   "style": "narrateur français de TikTok, voix grave et punchy, ton amusé et complice ; petite pause de suspense avant « l'équipe du Big » ; la question finale rapide et énergique ; accent français standard"},
+  {"id": "r9x", "sp": "X",
+   "text": "Hamza… Qu'est-ce que t'as, petit ? Je t'avais dit qu'on se reparlerait. <long pause> Hamza… Je vais t'aider, mon petit. <long pause> Hamza. Casse-toi. <long pause> C'est bon… c'est réglé. Hamza… tu vas devoir faire quelque chose pour moi. Tu vas voler la clé d'un gardien. Sinon… tu vas finir comme le petit policier.",
+   "style": "détenu colossal et terrifiant, voix extrêmement grave, profonde, lente et calme, menaçante ; troisième réplique : sec et autoritaire ; dernière : essoufflé après une bagarre, il reprend son souffle entre les phrases, puis très menaçant ; accent français standard"},
+  {"id": "r9v", "sp": "V",
+   "text": "Hamza… On va jouer, toi et moi. Hein ? Faut bien que je te baptise, mon petit. <long pause> Aïe ! Ouille ! Aaaah ! Pitié !",
+   "style": "vieux gardien de prison français, gros, la soixantaine, voix rauque et éraillée de vieux fumeur ; première partie : lente, inquiétante, sadique, avec un petit rire ; dernière partie : il se fait tabasser derrière une porte, cris comiques de douleur, aigus et paniqués ; jeu d'acteur de dessin animé"},
+  {"id": "r9s", "sp": "S",
+   "text": "Ha ha ha ! <long pause> Qu'est-ce que tu racontes ? On se bat pas, nous.",
+   "style": "jeune homme français cool et moqueur ; d'abord un vrai éclat de rire ; ensuite il répond avec un sourire en coin, calme et ironique, comme une évidence ; accent français standard"},
+  {"id": "r9m", "sp": "M",
+   "text": "Ha ha ha ha !",
+   "style": "grand costaud à la voix grave qui éclate d'un gros rire franc et moqueur"},
+  {"id": "r9k", "sp": "K",
+   "text": "Mmh… Ça va, Hamza ?",
+   "style": "jeune homme timide et doux, d'abord un petit grognement à peine réveillé, puis une question inquiète à voix basse ; accent français standard"}
+ ]
+}
