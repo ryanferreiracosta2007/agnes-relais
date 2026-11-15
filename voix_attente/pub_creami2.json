@@ -1,0 +1,10 @@
+{
+ "voices": {"H": "Fenrir"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "pc2h", "sp": "H",
+   "text": "STOP ! N'achète plus jamais ta glace au supermarché ! <long pause> Regarde plutôt ce que j'ai à la maison… <long pause> Ton mélange, une nuit au congélo… et hop, dans la machine ! <long pause> Et là… ça tourne ! <long pause> Ciao la glace en béton !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), jeune mec drôle et charismatique qui fait une pub TikTok ; jeu d'acteur de dessin animé, très expressif, débit RAPIDE et énergique ; première réplique : il crie STOP pour arrêter quelqu'un, puis il le met en garde, très convaincu ; deuxième : complice, mystérieux, il baisse la voix ; troisième : il explique vite, détendu, comme à un pote ; quatrième : excité, il danse presque ; dernière : moqueur, il dit au revoir à un pot de glace, fier de lui"}
+ ]
+}
