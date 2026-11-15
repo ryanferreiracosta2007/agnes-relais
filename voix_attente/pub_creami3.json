@@ -1,0 +1,10 @@
+{
+ "voices": {"H": "Fenrir"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "pc3h", "sp": "H",
+   "text": "Cette année, pour Noël… j'ai trouvé LE cadeau. <long pause> Une machine à glace… à la maison ! <long pause> Une glace devant la cheminée… wallah, c'est dosé !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), jeune mec drôle et charismatique qui fait une pub TikTok de Noël ; jeu d'acteur de dessin animé, très expressif, débit RAPIDE ; première réplique : mystérieux et excité, il secoue un paquet cadeau, il insiste sur « LE cadeau » ; deuxième : il découvre le cadeau, émerveillé, la voix monte ; dernière : bien au chaud, il savoure, ravi et fier"}
+ ]
+}
