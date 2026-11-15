@@ -1,0 +1,10 @@
+{
+ "voices": {"H": "Fenrir"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "pc3c", "sp": "H",
+   "text": "Une glace maison devant la cheminée… le bonheur !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), jeune mec chaleureux qui fait une pub TikTok de Noël ; bien au chaud, il savoure sa glace, ravi et attendri ; débit naturel ; il insiste joyeusement sur « le bonheur »"}
+ ]
+}
