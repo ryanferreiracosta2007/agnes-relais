@@ -1,0 +1,10 @@
+{
+ "voices": {"H": "Fenrir"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "pch", "sp": "H",
+   "text": "Wesh ! Elle est dure comme du béton ta glace ! <long pause> Moi je veux une vraie glace… crémeuse… faite maison. <long pause> Attends… regarde ça ! <long pause> Tu congèles ton mélange la veille… et tu le mets dans la machine. <long pause> Wallah… c'est dosé !",
+   "style": "accent du sud de la France très marqué et chantant (accent marseillais), jeune mec drôle et attachant ; jeu d'acteur de dessin animé, très expressif, débit RAPIDE ; première réplique : il tape sur une glace congelée, dégoûté et énervé ; deuxième : il rêve, gourmand ; troisième : complice, il a une idée, il chuchote presque ; quatrième : il explique, détendu, comme à un pote ; dernière : il goûte et c'est délicieux, émerveillé, voix qui monte"}
+ ]
+}
