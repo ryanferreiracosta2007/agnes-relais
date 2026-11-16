@@ -1,0 +1,16 @@
+{
+ "voices": {"H": "Fenrir", "A": "Leda", "C": "Zephyr"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "pph", "sp": "H",
+   "text": "Trois secondes. Regarde. <long pause> Confidential Private Gold, de Lattafa. <long pause> Le flacon doré… <long pause> La calligraphie… <long pause> Et ce bouchon… <long pause> Franchement, il en jette. <long pause> Pour toi, ou en cadeau. <long pause> Panier orange, en bas à gauche. <long pause> Rendez-vous dans cinq minutes ! <long pause> Pas de panique. <long pause> Un coup de Confidential Private Gold… <long pause> Et c'est réglé.",
+   "style": "accent du sud de la France marqué et chantant, jeune homme charismatique et classe qui présente un parfum sur TikTok ; débit RAPIDE, phrases courtes et rythmées comme un montage dynamique ; « Trois secondes. Regarde. » percutant ; le nom du parfum dit avec classe ; les détails du flacon dits avec admiration ; « Rendez-vous dans cinq minutes ! » paniqué ; « Pas de panique. » soudain calme et sûr de lui ; « Et c'est réglé. » satisfait"},
+  {"id": "ppa", "sp": "A",
+   "text": "Il est trop beau, ce flacon !",
+   "style": "jeune femme française de 22 ans, voix douce et pétillante, naturelle, émerveillée"},
+  {"id": "ppc", "sp": "C",
+   "text": "Mmh… tu sens trop bon, toi.",
+   "style": "jeune femme française de 23 ans, voix claire, charmée et souriante, naturelle"}
+ ]
+}
