@@ -1,0 +1,9 @@
+{
+ "voices": {"H": "Fenrir"},
+ "models": ["gemini-3.8-flash-lite-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "hook_seduction", "sp": "H", "text": "Elle m'a demandé ce que je portais… <short pause> Et tu sais combien je l'ai payé ? <short pause> Moins de vingt-cinq euros. <long pause> Je te raconte.", "style": "accent du sud de la France marqué et chantant, jeune homme de 20 ans charismatique qui parle face caméra sur TikTok, fier et complice, sourire en coin sur la première phrase, suspense sur la question, réponse dite avec aplomb et bien articulée, puis « Je te raconte » à voix basse comme un secret"},
+  {"id": "hook_cadeau", "sp": "H", "text": "Le cadeau de Noël qui fait son effet… <short pause> pour moins de vingt-cinq euros ? <short pause> Ça existe. <long pause> Regarde.", "style": "accent du sud de la France marqué et chantant, jeune homme de 20 ans charismatique qui interpelle les gens face caméra sur TikTok, énergique et intrigant, la question monte, « Ça existe » dit avec assurance, « Regarde » complice"}
+ ]
+}
