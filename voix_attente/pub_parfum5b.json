@@ -1,0 +1,50 @@
+{
+ "voices": {
+  "H": "Fenrir",
+  "A": "Leda",
+  "B": "Aoede",
+  "C": "Zephyr"
+ },
+ "models": [
+  "gemini-3.1-flash-tts-preview"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "hz",
+   "sp": "H",
+   "text": "Cent quatre-vingt-dix euros ?! Pour un parfum ?! <long pause> Ce soir, j'ai rendez-vous avec Inès… et mon budget, c'est ça. <long pause> Attends… c'est quoi, ça ? <long pause> Confidential Private Gold, de Lattafa. Une maison de parfum des Émirats arabes unis. <long pause> Eau de parfum, cent millilitres. Pour homme, et pour femme. <long pause> En tête : pêche, fruit de la passion, poire, framboise, et cassis. <long pause> Au cœur : du muguet. <long pause> Et en fond : musc, vanille, bois de santal, et patchouli. <long pause> Fruité, sucré, chaud… Franchement, ça donne envie. <long pause> Et le flacon ! Tout doré, avec la calligraphie arabe. <long pause> Le prix ? Moins de vingt-cinq euros. <long pause> Black Friday, Noël qui arrive… c'est le moment de se faire plaisir. Ou de faire plaisir. <long pause> Confidential Private Gold. Mais ça reste entre nous.",
+   "style": "accent du sud de la France marqué et chantant, jeune homme de 20 ans charismatique, drôle et expressif, qui présente un parfum sur TikTok ; une longue pause nette entre chaque phrase ; phrase 1 choqué et outré, la voix monte sur « parfum » ; phrase 2 rêveur sur « rendez-vous avec Inès » puis dépité et comique sur « mon budget, c'est ça » ; phrase 3 à voix basse, intrigué ; phrases 4 et 5 présentateur enthousiaste, articulé, le nom du parfum dit avec classe ; phrase 6 gourmand, chaque fruit détaché ; phrase 7 doux comme une confidence ; phrase 8 plus grave et chaud ; phrase 9 conquis ; phrase 10 admiratif ; phrase 11 petite pause de suspense après « Le prix ? » puis fier ; phrase 12 complice et souriant ; phrase 13 à voix basse, charmeur, comme un secret"
+  },
+  {
+   "id": "hcta",
+   "sp": "H",
+   "text": "Confidential Private Gold, de Lattafa. Moins de vingt-cinq euros. Clique sur le panier orange, en bas à gauche.",
+   "style": "accent du sud de la France marqué et chantant, appel à l'action dynamique, très bien articulé ; dire « le panier » puis « orange » distinctement, sans enchaîner les deux mots"
+  },
+  {
+   "id": "hcta2",
+   "sp": "H",
+   "text": "Clique sur le panier... orange. En bas, à gauche.",
+   "style": "accent du sud de la France marqué, clair et posé, chaque mot bien détaché"
+  },
+  {
+   "id": "a1",
+   "sp": "A",
+   "text": "Mmh… c'est quoi, ton parfum ? Il sent trop bon !",
+   "style": "jeune femme française de 22 ans, voix douce et pétillante, naturelle, charmée et curieuse"
+  },
+  {
+   "id": "b1",
+   "sp": "B",
+   "text": "Oh… ça sent trop bon, ici !",
+   "style": "jeune femme française de 21 ans, voix claire et enjouée, surprise et ravie, naturelle"
+  },
+  {
+   "id": "c1",
+   "sp": "C",
+   "text": "C'est clair !",
+   "style": "jeune femme française de 23 ans, voix claire, amusée, approbatrice, naturelle"
+  }
+ ]
+}
