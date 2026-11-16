@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-lite-tts",
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview"
+ ],
+ "lines": [
+  {
+   "id": "sceptique",
+   "sp": "X",
+   "voice": "Achird",
+   "text": "Oh ! Ça sent le parfum cher, ça ! T'as braqué une parfumerie ou quoi ? <long pause> Arrête de mentir. Ça existe pas, à ce prix-là. <long pause> Attends… cent millilitres ? Mais pourquoi tu me l'as pas dit avant ?!",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton de pote dans un sketch TikTok, débit rapide et naturel, très expressif ; une longue pause nette entre chaque phrase séparée par une pause ; phrase 1 surpris et moqueur ; phrase 2 agacé, il n'y croit pas du tout ; phrase 3 choqué puis outré, la voix monte"
+  },
+  {
+   "id": "malin",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Frérot, sens-moi ça. <long pause> Moins de vingt-cinq euros. <long pause> Regarde. Confidential Private Gold, de Lattafa. Cent millilitres. Pêche, vanille, musc. <long pause> Black Friday, Noël qui arrive… Le lien est juste en dessous, sur le panier... orange.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton de pote dans un sketch TikTok, débit rapide et naturel, très expressif ; une longue pause nette entre chaque phrase séparée par une pause ; sûr de lui, sourire en coin ; phrase 1 fier ; phrase 2 posé et net, bien articulé ; phrase 3 il prouve, rythmé, chaque info détachée ; phrase 4 complice, « panier » prononcé pa-nier puis « orange » bien distinct"
+  }
+ ]
+}
