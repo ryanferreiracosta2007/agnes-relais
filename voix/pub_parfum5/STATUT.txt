@@ -1,2 +1,2 @@
-EN COURS : 5/18 répliques, modèle None
-manquantes : h6, h7, h8, h9, h10, h11, h12, a1, h13, b1, c1, h14, h14b
+EN COURS : 7/18 répliques, modèle None
+manquantes : h8, h9, h10, h11, h12, a1, h13, b1, c1, h14, h14b
