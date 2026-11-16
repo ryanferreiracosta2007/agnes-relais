@@ -1,0 +1,9 @@
+{
+ "voices": {"H": "Fenrir"},
+ "models": ["gemini-3.8-flash-lite-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "cta1", "sp": "H", "text": "Confidential Private Gold, de Lattafa. <short pause> Moins de vingt-cinq euros. <long pause> Clique sur le panier... <short pause> orange. <short pause> Juste en dessous.", "style": "accent du sud de la France marqué et chantant, appel à l'action dynamique et très bien articulé ; « panier » prononcé clairement pa-nier, avec le son « nié », puis une petite pause, puis « orange »"},
+  {"id": "cta2", "sp": "H", "text": "Le lien ? <short pause> C'est le panier. <short pause> Le panier orange. <short pause> Clique dessus.", "style": "accent du sud de la France marqué et chantant, complice et clair, lent, chaque mot bien détaché ; « panier » prononcé pa-nier, bien distinct de « panneau »"}
+ ]
+}
