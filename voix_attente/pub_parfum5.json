@@ -1,0 +1,25 @@
+{
+ "voices": {"H": "Fenrir", "A": "Leda", "B": "Aoede", "C": "Zephyr"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "h1", "sp": "H", "text": "Cent quatre-vingt-dix euros ?! Pour un parfum ?!", "style": "accent du sud de la France marqué et chantant, jeune homme de 20 ans, choqué et outré, comique, voix qui monte dans les aigus sur « parfum »"},
+  {"id": "h2", "sp": "H", "text": "Ce soir, j'ai rendez-vous avec Inès… et mon budget, c'est ça.", "style": "accent du sud de la France marqué et chantant, jeune homme, d'abord rêveur et fier sur « rendez-vous avec Inès », puis dépité et comique sur « et mon budget, c'est ça »"},
+  {"id": "h3", "sp": "H", "text": "Attends… c'est quoi, ça ?", "style": "accent du sud de la France marqué, jeune homme qui scrolle sur son téléphone et s'arrête net, intrigué et émerveillé, à voix basse"},
+  {"id": "h4", "sp": "H", "text": "Confidential Private Gold, de Lattafa. Une maison de parfum des Émirats arabes unis.", "style": "accent du sud de la France marqué et chantant, jeune homme charismatique qui présente un produit sur TikTok, enthousiaste, articulé, débit dynamique, le nom du parfum dit avec classe"},
+  {"id": "h5", "sp": "H", "text": "Eau de parfum, cent millilitres. Pour homme, et pour femme.", "style": "accent du sud de la France marqué et chantant, présentateur TikTok enthousiaste, rythmé, chaque info bien détachée"},
+  {"id": "h6", "sp": "H", "text": "En tête : pêche, fruit de la passion, poire, framboise, et cassis.", "style": "accent du sud de la France marqué et chantant, gourmand et joueur, chaque fruit bien détaché comme s'il les goûtait"},
+  {"id": "h7", "sp": "H", "text": "Au cœur : du muguet.", "style": "accent du sud de la France marqué, doux, comme une confidence"},
+  {"id": "h8", "sp": "H", "text": "Et en fond : musc, vanille, bois de santal, et patchouli.", "style": "accent du sud de la France marqué, voix plus grave et chaude, posée, sensuelle mais classe"},
+  {"id": "h9", "sp": "H", "text": "Fruité, sucré, chaud… Franchement, ça donne envie.", "style": "accent du sud de la France marqué et chantant, conquis, sourire dans la voix"},
+  {"id": "h10", "sp": "H", "text": "Et le flacon ! Tout doré, avec la calligraphie arabe.", "style": "accent du sud de la France marqué et chantant, admiratif, enthousiaste"},
+  {"id": "h11", "sp": "H", "text": "Le prix ? Moins de vingt-cinq euros.", "style": "accent du sud de la France marqué et chantant, petite pause de suspense après « Le prix ? », puis la réponse dite avec fierté et étonnement, bien articulée"},
+  {"id": "h12", "sp": "H", "text": "Black Friday, Noël qui arrive… c'est le moment de se faire plaisir. Ou de faire plaisir.", "style": "accent du sud de la France marqué et chantant, complice et souriant, rythmé, clin d'œil sur « Ou de faire plaisir »"},
+  {"id": "a1", "sp": "A", "text": "Mmh… c'est quoi, ton parfum ? Il sent trop bon !", "style": "jeune femme française de 22 ans, voix douce et pétillante, naturelle, charmée et curieuse"},
+  {"id": "h13", "sp": "H", "text": "Confidential Private Gold. Mais ça reste entre nous.", "style": "accent du sud de la France marqué, sûr de lui, charmeur, à voix basse avec un sourire, comme un secret"},
+  {"id": "b1", "sp": "B", "text": "Oh… ça sent trop bon, ici !", "style": "jeune femme française de 21 ans, voix claire et enjouée, surprise et ravie, naturelle"},
+  {"id": "c1", "sp": "C", "text": "C'est clair !", "style": "jeune femme française de 23 ans, voix claire, amusée, approbatrice, naturelle"},
+  {"id": "h14", "sp": "H", "text": "Confidential Private Gold, de Lattafa. Moins de vingt-cinq euros. Clique sur le panier orange, en bas à gauche.", "style": "accent du sud de la France marqué et chantant, appel à l'action dynamique et clair, très bien articulé, prononcer distinctement « le pa-nier o-range » sans liaison"},
+  {"id": "h14b", "sp": "H", "text": "Clique sur le panier... orange. En bas, à gauche.", "style": "accent du sud de la France marqué et chantant, appel à l'action clair et lent, bien articulé, « panier » puis « orange » bien séparés"}
+ ]
+}
