@@ -1,0 +1,37 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "strict": true,
+ "lines": [
+  {
+   "id": "cast_puck",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Sentir le parfum de luxe… pour moins de vingt-cinq euros ? <short pause> Deux pschitt, et c'est réglé. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton décontracté de pote qui partage un bon plan face caméra sur TikTok, débit rapide et fluide, voix médium plutôt claire, naturel, sûr de lui, pas surjoué, sourire dans la voix"
+  },
+  {
+   "id": "cast_achird",
+   "sp": "X",
+   "voice": "Achird",
+   "text": "Sentir le parfum de luxe… pour moins de vingt-cinq euros ? <short pause> Deux pschitt, et c'est réglé. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton décontracté de pote qui partage un bon plan face caméra sur TikTok, débit rapide et fluide, voix médium plutôt claire, naturel, sûr de lui, pas surjoué, sourire dans la voix"
+  },
+  {
+   "id": "cast_zubenelgenubi",
+   "sp": "X",
+   "voice": "Zubenelgenubi",
+   "text": "Sentir le parfum de luxe… pour moins de vingt-cinq euros ? <short pause> Deux pschitt, et c'est réglé. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton décontracté de pote qui partage un bon plan face caméra sur TikTok, débit rapide et fluide, voix médium plutôt claire, naturel, sûr de lui, pas surjoué, sourire dans la voix"
+  },
+  {
+   "id": "cast_sadachbia",
+   "sp": "X",
+   "voice": "Sadachbia",
+   "text": "Sentir le parfum de luxe… pour moins de vingt-cinq euros ? <short pause> Deux pschitt, et c'est réglé. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton décontracté de pote qui partage un bon plan face caméra sur TikTok, débit rapide et fluide, voix médium plutôt claire, naturel, sûr de lui, pas surjoué, sourire dans la voix"
+  }
+ ]
+}
