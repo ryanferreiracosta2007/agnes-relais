@@ -1,0 +1,38 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "classement",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Cadeaux de Noël à moins de vingt-cinq euros. Un seul que je garde. <long pause> Numéro trois : les chaussettes de Noël. Sympa… mais on les oublie. <long pause> Numéro deux : la bougie parfumée. Ça fait plaisir… deux semaines. <long pause> Et numéro un… le parfum.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton de pote qui parle face caméra sur TikTok, débit rapide et naturel, très expressif, voix forte et bien articulée ; une longue pause nette entre chaque phrase séparée par une pause ; phrase 1 accrocheur et joueur ; numéro trois moqueur ; numéro deux ironique ; numéro un suspense puis fier"
+  },
+  {
+   "id": "choc",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Cent quatre-vingt-dix euros, le parfum de luxe ? <long pause> Ou moins de vingt-cinq euros… pour cent millilitres ? <long pause> Franchement… le choix est vite fait.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton de pote qui parle face caméra sur TikTok, débit rapide et naturel, très expressif, voix forte et bien articulée ; une longue pause nette entre chaque phrase séparée par une pause ; phrase 1 choqué et outré, la voix monte ; phrase 2 malin, sourire dans la voix ; phrase 3 sûr de lui, complice"
+  },
+  {
+   "id": "chat_moi",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Pourquoi ? <long pause> Moins de vingt-cinq euros. Cent millilitres.",
+   "style": "jeune homme français de 20 ans, accent neutre de région parisienne, ton de pote qui parle face caméra sur TikTok, débit rapide et naturel, très expressif, voix forte et bien articulée ; une longue pause nette entre chaque phrase séparée par une pause ; phrase 1 faussement innocent, amusé ; phrase 2 fier et net"
+  },
+  {
+   "id": "chat_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "T'as mis quoi comme parfum hier soir ? <long pause> Mes copines arrêtent pas de m'en parler. <long pause> Ça a l'air trop cher, t'es fou ! <long pause> Quoi ?! Envoie-moi le lien !",
+   "style": "jeune femme française de 22 ans, voix douce et pétillante, naturelle et expressive ; une longue pause nette entre chaque phrase ; phrase 1 curieuse et charmée ; phrase 2 complice ; phrase 3 sceptique et taquine ; phrase 4 choquée puis excitée"
+  }
+ ]
+}
