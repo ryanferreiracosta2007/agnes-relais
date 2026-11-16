@@ -1,0 +1,19 @@
+{
+ "voices": {"H": "Fenrir", "A": "Leda", "B": "Aoede", "C": "Zephyr"},
+ "models": ["gemini-3.8-flash-tts"],
+ "strict": true,
+ "lines": [
+  {"id": "pfh", "sp": "H",
+   "text": "Mon secret ? <long pause> Confidential Private Gold… de Lattafa. <long pause> Regarde-moi ce flacon… <long pause> Il est dans le panier orange, en bas à gauche. <long pause> Sans parfum… <long pause> Avec Confidential Private Gold, de Lattafa… <long pause> Le flacon est dans le panier orange.",
+   "style": "accent du sud de la France marqué et chantant, jeune homme charmeur, sûr de lui, voix posée et un peu grave, sourire dans la voix ; pub TikTok de parfum élégante ; débit naturel, pas trop rapide ; « Mon secret ? » complice avec un clin d'œil ; le nom du parfum dit lentement, avec classe ; « Sans parfum… » déçu et plat ; « Avec Confidential Private Gold » très fier"},
+  {"id": "pfa", "sp": "A",
+   "text": "Hmm… attends, ça sent trop bon, là ! <long pause> Envoie-moi le nom ! <long pause> Bof.",
+   "style": "jeune femme française de 22 ans, voix douce et pétillante, naturelle comme dans la vraie vie ; première réplique : elle remarque une odeur incroyable, surprise et charmée ; deuxième : enthousiaste, elle veut absolument le nom ; dernière : totalement indifférente, blasée"},
+  {"id": "pfb", "sp": "B",
+   "text": "C'est qui, lui ? <long pause> Moi, je le prends pour mon copain ! <long pause> Il porte quoi, lui ?",
+   "style": "jeune femme française de 24 ans, voix chaude et amusée, naturelle ; première réplique : intriguée, elle chuchote à sa copine ; deuxième : décidée et joyeuse ; dernière : curieuse et impressionnée"},
+  {"id": "pfc", "sp": "C",
+   "text": "C'est quoi ton parfum ? <long pause> Wow… mais tu sens trop bon !",
+   "style": "jeune femme française de 23 ans, voix claire et lumineuse, naturelle ; première réplique : curieuse et charmée, elle sourit ; deuxième : vraiment impressionnée"}
+ ]
+}
