@@ -1,0 +1,17 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "v3_malin",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "C'est mon nouveau parfum. <long pause> Moins de vingt-cinq euros, mon frère. <long pause> C'est le Confidential Private Gold de chez Lattafa, et t'as cent millilitres.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, très énergique, débit rapide, voix forte, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 frimeur, sourire en coin ; réplique 2 très calme, sûr de lui, il savoure chaque mot ; réplique 3 fier et rapide, il montre le flacon"
+  }
+ ]
+}
