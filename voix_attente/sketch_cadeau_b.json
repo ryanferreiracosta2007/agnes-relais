@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-tts",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "v4b_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "Bon… t'es pardonné. <short pause> Mmh… il sent trop bon, ce parfum !",
+   "style": "jeune femme française de 22 ans, voix pétillante, sketch comique TikTok, voix forte et bien articulée ; elle fond complètement, voix douce et amoureuse, presque un soupir sur « Mmh »"
+  },
+  {
+   "id": "v4b_david",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Respire-le d'abord, avant de t'énerver.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, très calme et sûr de lui, voix forte et bien articulée"
+  }
+ ]
+}
