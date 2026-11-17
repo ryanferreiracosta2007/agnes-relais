@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "v2_sceptique",
+   "sp": "X",
+   "voice": "Achird",
+   "text": "Attends… c'est quoi cette odeur ? <long pause> Montre ! Ça doit coûter une blinde, ça. <long pause> QUOI ?! <long pause> J'en prends trois !",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, très énergique, débit rapide, voix forte, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 il renifle, intrigué, sourcils froncés ; réplique 2 jaloux et méfiant ; réplique 3 il hurle de surprise, choqué ; réplique 4 surexcité, il part en courant"
+  },
+  {
+   "id": "v2_malin",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Mon nouveau parfum. <long pause> Moins de vingt-cinq. <long pause> Cent millilitres. Lattafa. <long pause> Le lien ? Panier... orange, juste en dessous. Avant qu'il prenne tout.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, très énergique, débit rapide, voix forte, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 frimeur, sourire en coin ; réplique 2 très calme, sûr de lui, il savoure ; réplique 3 fier, rapide ; réplique 4 complice face caméra, « panier » prononcé pa-nier bien net, puis « orange » détaché, la fin en rigolant"
+  }
+ ]
+}
