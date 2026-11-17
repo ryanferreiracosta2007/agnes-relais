@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "v4_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "Oh, c'est pour moi ? Je peux l'ouvrir maintenant ? <long pause> Il est trop beau… Il t'a coûté combien ? <long pause> Quoi ?! Tu m'offres un cadeau à vingt-cinq euros pour Noël ?! <long pause> Bon… t'es pardonné. Il sent trop bon.",
+   "style": "jeune femme française de 22 ans, voix pétillante et très expressive, sketch comique TikTok, voix forte, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 surexcitée comme une enfant ; réplique 2 émerveillée puis soupçonneuse ; réplique 3 furieuse, elle crie, outrée ; réplique 4 elle fond complètement, voix douce et amoureuse, presque un soupir"
+  },
+  {
+   "id": "v4_david",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Vas-y, ouvre-le, tu vas l'adorer. <long pause> Euh… moins de vingt-cinq euros. <long pause> Sens-le avant de t'énerver. <long pause> C'est le Confidential Private Gold de chez Lattafa, et il est mixte. <long pause> Si toi aussi t'as pas de budget pour Noël, le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, énergique, voix forte, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 fier et impatient ; réplique 2 gêné, il hésite puis lâche le prix ; réplique 3 très calme, sûr de lui ; réplique 4 fier, rapide ; réplique 5 complice face caméra, « panier » prononcé pa-nier bien net puis « orange »"
+  }
+ ]
+}
