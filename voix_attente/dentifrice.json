@@ -1,0 +1,31 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "dent_david",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Salut toi… tu fais quoi ce soir ? <long pause> Sérieux ? C'est si grave que ça ? <long pause> Et maintenant, ça va mieux ? <long pause> Moins de cinq euros. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, énergique, voix forte et bien articulée, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 charmeur, voix grave et séductrice ; réplique 2 vexé et gêné ; réplique 3 fier, il souffle, sûr de lui ; réplique 4 posé, il savoure ; réplique 5 complice face caméra, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "dent_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "Oh là là… Recule un peu, s'il te plaît. Ton haleine, c'est une catastrophe ! <long pause> Tiens, prends ça. C'est le dentifrice Miswak de chez Dabur, à base de plantes. <long pause> Mmh… là, on peut parler. Il t'a coûté combien, ton dentifrice ?",
+   "style": "jeune femme française de 22 ans, voix pétillante et très expressive, sketch comique TikTok, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique ; réplique 1 dégoûtée, elle recule, elle grimace ; réplique 2 autoritaire et moqueuse ; réplique 3 charmée, voix douce, puis curieuse"
+  },
+  {
+   "id": "dent_promo",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Ce dentifrice à moins de cinq euros, il faut absolument que je t'en parle. <long pause> C'est le Miswak de chez Dabur, un dentifrice à base de plantes, avec de l'extrait de miswak. <long pause> Sur la boîte, ils annoncent des dents solides, des gencives saines et une haleine fraîche. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, ton de pote qui file un bon plan face caméra sur TikTok, débit rapide, très énergique et enthousiaste, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrase 1 accrocheur, presque en confidence ; phrase 2 rapide et clair ; phrase 3 impressionné ; phrase 4 complice, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
