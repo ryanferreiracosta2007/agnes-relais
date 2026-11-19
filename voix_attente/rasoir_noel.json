@@ -1,0 +1,31 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "noel_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "Joyeux Noël, mon cœur ! Ouvre vite ton cadeau. <long pause> Non… je veux dire qu'elle ressemble à un buisson. <long pause> C'est le Philips OneBlade 360. Il taille, il fait les contours et il rase. <long pause> Et regarde, l'application gratuite te fait essayer les styles de barbe. <long pause> Et avec les coupons de la fiche, il est à vingt-neuf euros quatre-vingt-dix-neuf. <long pause> Le Black Friday dure jusqu'au trente novembre. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune femme française de 22 ans, voix pétillante et très expressive, sketch comique de Noël sur TikTok, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique ; réplique 1 tendre et excitée ; réplique 2 taquine, elle se retient de rire ; réplique 3 fière et claire ; réplique 4 amusée ; réplique 5 complice, prix bien articulé ; réplique 6 complice face caméra, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "noel_hamza",
+   "sp": "X",
+   "voice": "Fenrir",
+   "text": "Un rasoir ? Tu veux dire que ma barbe est moche ? <long pause> Bon… d'accord. Il fait quoi, ce rasoir ? <long pause> Franchement… je suis beau gosse, non ?",
+   "style": "accent du sud de la France marqué et chantant, jeune homme de 22 ans, sketch comique de Noël sur TikTok, voix forte et bien articulée, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique ; réplique 1 vexé et outré ; réplique 2 il boude puis il est curieux ; réplique 3 très fier de lui, charmeur"
+  },
+  {
+   "id": "noel_sarah",
+   "sp": "X",
+   "voice": "Aoede",
+   "text": "Les cadeaux de Noël pour ton copain : un seul que je garde. <long pause> Numéro trois : les chaussettes de Noël. Il les met une fois, et c'est fini. <long pause> Numéro deux : le pull moche. Il va le cacher au fond du placard. <long pause> Et numéro un : le Philips OneBlade 360. <long pause> Il taille, il fait les contours et il rase, et il a une application pour essayer les styles de barbe. <long pause> Il est affiché à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Le Black Friday dure jusqu'au trente novembre. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune femme française de 23 ans, voix chaleureuse et dynamique, ton de copine qui donne ses conseils cadeaux face caméra sur TikTok, débit rapide, très expressive, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrase 1 accrocheuse ; numéro trois moqueuse ; numéro deux ironique ; numéro un suspense puis fière ; prix bien articulés ; fin complice, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
