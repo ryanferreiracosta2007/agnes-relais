@@ -1,0 +1,31 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "ras_s",
+   "sp": "X",
+   "voice": "Achird",
+   "text": "Franchement, je sais même pas quelle barbe me va. <long pause> Une application ? Pour un rasoir ? <long pause> Ah non, pas la moustache ! <long pause> Wow… j'ai rajeuni de dix ans !",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, énergique, voix forte et bien articulée, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 désespéré, il se gratte la barbe ; réplique 2 sceptique, il se moque ; réplique 3 horrifié, il crie ; réplique 4 émerveillé et surexcité"
+  },
+  {
+   "id": "ras_m",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Prends mon rasoir, il a une application gratuite. <long pause> Tu essaies les styles de barbe en réalité augmentée, avant de raser. <long pause> Et après, il taille, il fait les contours et il rase, quelle que soit la longueur. <long pause> C'est le Philips OneBlade 360. Il est affiché à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Le Black Friday dure jusqu'au trente novembre. Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, sketch comique TikTok, énergique, voix forte et bien articulée, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 sûr de lui, il tend le rasoir ; réplique 2 complice, il montre le téléphone ; réplique 3 rapide et fier ; réplique 4 posé, chaque prix bien articulé ; réplique 5 complice face caméra, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "ras_p",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Ce rasoir Philips taille, fait les contours et rase, quelle que soit la longueur de tes poils. <long pause> Sa lame 360 suit les courbes du visage, et il s'utilise sur le visage comme sur le corps. <long pause> Il est étanche, tu peux l'utiliser à sec ou avec de la mousse, et l'application gratuite te fait essayer des styles de barbe. <long pause> Il est affiché à cinquante euros quatre-vingt-dix-neuf, et jusqu'à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Un rasoir Philips à moins de trente euros ? Attends, regarde la fiche. <long pause> Avec les coupons, tu le paies vingt-neuf euros quatre-vingt-dix-neuf au lieu de cinquante euros quatre-vingt-dix-neuf.",
+   "style": "jeune homme français de 20 ans, accent de banlieue parisienne léger, ton de pote qui file un bon plan face caméra sur TikTok, débit rapide, énergique et enthousiaste, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrases 1 à 3 rapides et claires ; phrase 4 posée, chaque prix bien articulé ; phrase 5 choqué puis intrigant, accrocheur ; phrase 6 fier, prix bien articulés"
+  }
+ ]
+}
