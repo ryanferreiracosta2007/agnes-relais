@@ -1,0 +1,17 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "mini",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Hé ! Toi, là ! Oui, toi qui scrolles ! Regarde ce que j'ai trouvé. <long pause> C'est le Philips OneBlade 360. Il taille, il fait les contours et il rase. <long pause> Attention, il arrive ! <long pause> Et il a même une application gratuite pour essayer les styles de barbe. <long pause> Il est affiché à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Le Black Friday dure jusqu'au trente novembre. Le lien est juste en dessous, sur le panier orange.",
+   "style": "petit personnage de dessin animé surexcité qui crie pour se faire entendre, très expressif, débit rapide, voix forte et très bien articulée, comique ; une longue pause nette entre chaque phrase ; phrase 1 il interpelle le spectateur en criant, puis fier et complice ; phrase 2 il présente fièrement ; phrase 3 paniqué, il hurle ; phrase 4 essoufflé puis enthousiaste ; phrase 5 posé, prix bien articulés ; phrase 6 complice, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
