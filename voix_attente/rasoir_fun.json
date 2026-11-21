@@ -1,0 +1,27 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "docu",
+   "sp": "N",
+   "voice": "Charon",
+   "text": "Chut… Ne faites aucun bruit. <long pause> Ici, dans la salle de bain, vit une créature redoutée de tous les poils : le Philips OneBlade 360. <long pause> Le voilà qui sort de sa tanière. <long pause> Il chasse de trois façons : il taille, il fait les contours, et il rase, quelle que soit la longueur. <long pause> Sa lame 360 suit les courbes du visage. Aucun poil ne lui échappe. <long pause> Il chasse même sous l'eau, car il est étanche. <long pause> On peut l'observer à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "narrateur de documentaire animalier à la télévision française, voix grave, posée et chuchotée, très sérieux mais complice, comme s'il observait un fauve ; une longue pause nette entre chaque phrase ; phrase 1 chuchotée ; phrase 3 tendue, admirative ; prix bien articulé ; dernière phrase complice, « panier » prononcé pa-nier puis « orange » bien net, voix assez forte"
+  },
+  {
+   "id": "poils",
+   "sp": "P",
+   "voice": "Puck",
+   "text": "Au secours ! Il arrive ! <long pause> Cours, Kevin, cours ! <long pause> Nooooon ! <long pause> On est fichus !",
+   "style": "petits personnages de dessin animé paniqués, cris aigus et comiques, très expressifs, voix forte ; une longue pause nette entre chaque réplique"
+  },
+  {
+   "id": "barbe",
+   "sp": "B",
+   "voice": "Algenib",
+   "text": "Au secours ! Il veut me raser ! <long pause> Bonjour. Moi, c'est Gérard, la barbe de Hamza. Et lui, là, c'est mon pire ennemi : le Philips OneBlade 360. <long pause> Il taille, il fait les contours, et il rase, quelle que soit ma longueur ! <long pause> Et il a une application gratuite pour choisir mon style. Il décide de ma coupe, maintenant ! <long pause> Le pire, c'est son prix : vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche, au lieu de cinquante euros quatre-vingt-dix-neuf. <long pause> Le lien est juste en dessous, sur le panier orange… Surtout, n'appuie pas dessus !",
+   "style": "barbe vivante de dessin animé, voix rocailleuse et dramatique, paranoïaque et comique, très expressive, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrase 1 hurlée de panique ; phrase 2 elle se reprend, faussement digne puis rancunière ; phrase 3 terrorisée ; phrase 4 indignée ; phrase 5 désespérée ; dernière phrase : d'abord complice, « panier » prononcé pa-nier puis « orange » bien net, puis « Surtout, n'appuie pas dessus ! » suppliant"
+  }
+ ]
+}
