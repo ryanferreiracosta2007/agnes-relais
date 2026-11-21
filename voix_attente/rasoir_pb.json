@@ -1,0 +1,27 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "galeres",
+   "sp": "D",
+   "voice": "Puck",
+   "text": "Toi aussi, tu ressembles à ça après t'être rasé ? <long pause> Problème numéro un : les coupures. <long pause> Le Philips OneBlade 360 est conçu pour couper les poils, et pas la peau. <long pause> Son double système de protection, avec un revêtement lisse et des bords arrondis, aide la lame à glisser en douceur, même à contre-sens. <long pause> Problème numéro deux : les contours ratés. <long pause> Sa lame double sens te permet de tracer des lignes nettes, dans n'importe quelle direction. <long pause> Problème numéro trois : la peau qui chauffe. <long pause> Il ne rase pas d'aussi près qu'une lame classique, et ça préserve ta peau. <long pause> Il est à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Fini le papier toilette sur le visage ! <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune vendeur TikTok drôle et complice, débit rapide et énergique, voix forte et bien articulée, vraies émotions ; une longue pause nette entre chaque phrase ; phrase 1 moqueuse, il se retient de rire ; les phrases « Problème numéro… » annoncées avec un ton dramatique ; les explications claires et convaincues, « OneBlade » prononcé à l'anglaise « ouane-bléde » ; « Fini le papier toilette sur le visage » en rigolant ; dernière phrase complice, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "date_h",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Cinq minutes ?! Mais je ne suis même pas rasé ! <long pause> Avant, dès que je me rasais trop vite, je me coupais. <long pause> Mais le Philips OneBlade 360 est conçu pour couper les poils, et pas la peau. Alors j'y vais, sans stress. <long pause> Je taille, je fais mes contours avec la lame double sens, et je rase, même à contre-sens. <long pause> Et voilà, je suis prêt ! <long pause> Il est à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche, au lieu de cinquante euros quatre-vingt-dix-neuf. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme avec un accent du sud de la France, comique et très expressif, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrase 1 panique totale, il crie ; phrase 2 dépité ; phrase 3 il se reprend, confiant, « OneBlade » prononcé à l'anglaise « ouane-bléde » ; phrase 4 rapide et efficace, comme une course contre la montre ; phrase 5 triomphant, essoufflé ; dernières phrases complices, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "date_i",
+   "sp": "I",
+   "voice": "Leda",
+   "text": "J'arrive dans cinq minutes ! <long pause> C'est moi, je suis en bas ! <long pause> Oh… t'es tout beau, toi !",
+   "style": "jeune femme pétillante et naturelle, voix forte ; une longue pause nette entre chaque réplique ; réplique 1 joyeuse, comme un message vocal ; réplique 2 enjouée, à travers l'interphone ; réplique 3 charmée, surprise et souriante"
+  }
+ ]
+}
