@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "mini_dent",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Non, non, non… il me tombe dessus ! <long pause> Ouh là… ça va, je suis vivant. Je vous présente le dentifrice Miswak de Dabur. <long pause> C'est un dentifrice aux plantes, avec de l'extrait pur d'Al-Arak, le bâton de miswak. <long pause> Sur la boîte, c'est écrit : des dents fortes, des gencives saines et une haleine fraîche. <long pause> Mmh… ça sent la fraîcheur ! <long pause> Et il coûte moins de cinq euros ! <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "petit personnage de dessin animé avec un fort accent du sud de la France, très expressif, voix forte et bien articulée, comique ; une longue pause nette entre chaque phrase ; phrase 1 il hurle de panique ; phrase 2 sonné et essoufflé puis il se reprend fièrement ; phrase 3 sérieux et fier, Al-Arak bien articulé ; phrase 4 il énumère clairement ; phrase 5 il renifle et se régale ; phrase 6 il crie de joie en surfant ; phrase 7 complice, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "mini_parf",
+   "sp": "L",
+   "voice": "Zephyr",
+   "text": "Non, non, n'appuie pas là-dessus ! <long pause> Mmh… il sent trop bon, ce parfum ! <long pause> C'est le Confidential Private Gold de Lattafa. Hé ! Doucement, je suis dessus ! <long pause> Pour Noël, c'est l'idée cadeau parfaite, avec son flacon doré qui brille. <long pause> Et il coûte moins de vingt-cinq euros ! <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "petite fée de dessin animé surexcitée, très expressive, voix forte et bien articulée, comique ; une longue pause nette entre chaque phrase ; phrase 1 elle crie de panique ; phrase 2 sous le charme, rêveuse et gourmande ; phrase 3 fière puis vexée qu'on la secoue ; phrase 4 émerveillée et chaleureuse ; phrase 5 enthousiaste ; phrase 6 complice, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
