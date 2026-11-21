@@ -1,0 +1,13 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "galeres_cta",
+   "sp": "D",
+   "voice": "Puck",
+   "text": "Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune vendeur TikTok complice et souriant, voix forte et bien articulée ; « en dessous » très net (dé-ssous, avec le son « ou »), « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
