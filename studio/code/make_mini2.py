@@ -1,9 +1,9 @@
 import sys, subprocess, render as R, audio as A, make_nuit as MN
-import mini2 as M2, rf_videos as RV, pb_videos as PV
+import mini2 as M2, rf_videos as RV, pb_videos as PV, tb_videos as TBV
 from PIL import Image
 import cairo
 from ink import W, H
-VIDS = {'gal': (PV.build_gal, 'Rasoir_3_Galeres', 116), 'date': (PV.build_date, 'Rasoir_POV_Rendez_Vous', 98), 'doc': (RV.build_doc, 'Rasoir_Documentaire_Poils', 100), 'gerard': (RV.build_g, 'Rasoir_Gerard_la_Barbe', 108), 'dent': (M2.build_dent, 'Dentifrice_Mini_Hamza', 112), 'parf': (M2.build_parf, 'Parfum_Mini_Lea_Noel', 104)}
+VIDS = {'gal': (PV.build_gal, 'Rasoir_3_Galeres', 116), 'date': (PV.build_date, 'Rasoir_POV_Rendez_Vous', 98), 'doc': (RV.build_doc, 'Rasoir_Documentaire_Poils', 100), 'gerard': (RV.build_g, 'Rasoir_Gerard_la_Barbe', 108), 'dent': (M2.build_dent, 'Dentifrice_Mini_Hamza', 112), 'parf': (M2.build_parf, 'Parfum_Mini_Lea_Noel', 104), 'tb': (TBV.build_tb, 'Dentifrice_Team_Brosse_Mouillee_ou_Seche', 110)}
 name, mode = sys.argv[1], sys.argv[2]
 build, out, bpm = VIDS[name]; shots, mute = build(); sh = shots[0]
 if mode == 'stills':

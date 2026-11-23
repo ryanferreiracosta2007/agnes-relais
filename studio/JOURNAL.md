@@ -21,3 +21,4 @@ Format : date | produit | fichier | concept | vues connues
 - 21/11 | Tondeuse | Rasoir_POV_Rendez_Vous | POV elle arrive dans 5 minutes, chrono | pas encore posté ?
 
 ## Sessions automatiques (ajouter une ligne par vidéo produite)
+- 23/11 | Dentifrice | Dentifrice_Team_Brosse_Mouillee_ou_Seche (25 s) | débat « team brosse mouillée ou team brosse sèche ? » : mini Hamza (mouillée) contre mini Inès (sèche) sur les vraies images du tube, réconciliés sur le dentifrice, écran partagé + jauge de vote, « dis-le en commentaire » | hypothèse : un débat du quotidien en accroche + vote en commentaire augmente rétention à 3 s et commentaires | pas encore posté

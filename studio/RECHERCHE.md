@@ -22,3 +22,9 @@
 4. Changement visuel au moins toutes les 2 s.
 5. Une raison de partager ou commenter : situation que tout le monde connaît, question posée au spectateur, ou défi.
 6. Publication : 2 à 3 vidéos par jour maximum, au moins 3 h d'écart, jamais deux vidéos du même produit à la suite.
+
+## 23/11/2026 — Débat du quotidien comme moteur de commentaires (vidéo Team brosse)
+- « Mouiller la brosse avant ou après le dentifrice » est un vrai débat qui divise le public et même les dentistes (Neozone, maj. 19/08/2025 : https://www.neozone.org/astuces/faut-il-mouiller-sa-brosse-a-dents-avant-ou-apres-le-dentifrice/). Sujet universel, sans risque, idéal pour faire commenter.
+- Formats qui provoquent des commentaires : « Équipe A contre équipe B », question « A ou B ? » à l'écran et dans la légende ; éviter le « like pour la partie 2 » que TikTok pénalise (Socialync, 25/02/2026 : https://www.socialync.io/blog/increase-tiktok-comments-engagement-2026). Ratio commentaires/vues visé : 0,5 à 1 %.
+- Accroches qui tiennent 3 s : question précise sur une habitude du spectateur, ou interruption visuelle cohérente ; l'accroche doit tomber dans les 2 premières secondes ; si on perd plus de 35 % à 3 s, l'accroche est trop faible (OpusClip, 11/11/2025 : https://www.opus.pro/blog/tiktok-hook-formulas — éditeur d'outil, chiffres non publiés).
+- Décision : tester une vidéo « débat » où le produit n'est pas le sujet de la dispute mais le point d'accord ; question au spectateur à l'écran + jauge de vote animée.
