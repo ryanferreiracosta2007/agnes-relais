@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "tb_hamza",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Attends… tu mets le dentifrice sur une brosse sèche ?! <long pause> N'importe quoi ? C'est toi, n'importe quoi ! <long pause> Le Miswak de Dabur. C'est un dentifrice aux plantes, avec de l'extrait pur d'Al-Arak. <long pause> Et il coûte moins de cinq euros !",
+   "style": "petit personnage de dessin animé avec un fort accent du sud de la France, très expressif, voix forte et bien articulée, comique ; une longue pause nette entre chaque phrase ; phrase 1 il est scandalisé, choqué, comme s'il découvrait un crime ; phrase 2 vexé, il se défend, de mauvaise foi ; phrase 3 il se calme, fier et sérieux, « Al-Arak » bien articulé ; phrase 4 il crie de joie"
+  },
+  {
+   "id": "tb_ines",
+   "sp": "I",
+   "voice": "Leda",
+   "text": "Bah oui ! Mouiller la brosse avant, c'est n'importe quoi ! <long pause> Bon… au moins, on est d'accord sur le dentifrice. <long pause> Sur la boîte, c'est écrit : des dents fortes, des gencives saines et une haleine fraîche. <long pause> Et toi, tu es team brosse mouillée ou team brosse sèche ? Dis-le en commentaire ! <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune femme de dessin animé, piquante et drôle, très expressive, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrase 1 elle est sûre d'elle, un peu moqueuse ; phrase 2 elle soupire puis sourit, réconciliée ; phrase 3 elle énumère clairement et fièrement ; phrase 4 elle s'adresse directement au spectateur, joueuse, comme un défi ; phrase 5 complice, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
