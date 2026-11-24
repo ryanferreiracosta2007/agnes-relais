@@ -1,0 +1,13 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "fm_ines2",
+   "sp": "I",
+   "voice": "Leda",
+   "text": "Movember, c'est fini dans six jours. Ta moustache, tu la rases quand ?",
+   "style": "jeune femme française pétillante et très expressive, sketch comique TikTok, voix forte et très bien articulée, jeu d'actrice exagéré ; taquine, elle croise les bras ; la question finale lancée directement au spectateur, « tu la rases quand » bien détaché et bien net"
+  }
+ ]
+}
