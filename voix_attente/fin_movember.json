@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "fm_ines",
+   "sp": "I",
+   "voice": "Leda",
+   "text": "Movember, c'est fini dans six jours. Ta moustache, elle part quand ? <long pause> Bernard, il ressemble à un vieux balai. <long pause> Ah… là, il est propre ! <long pause> Et toi : après Movember, tu gardes la moustache ou tu rases tout ? Dis-le en commentaire.",
+   "style": "jeune femme française pétillante et très expressive, sketch comique TikTok, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique ; réplique 1 taquine, elle croise les bras, la question finale lancée directement au spectateur ; réplique 2 moqueuse et dégoûtée, elle retient un rire ; réplique 3 surprise puis charmée, voix qui monte ; réplique 4 face caméra, joueuse et curieuse, elle lance le débat"
+  },
+  {
+   "id": "fm_hamza",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Jamais ! Elle a un nom : elle s'appelle Bernard. <long pause> D'accord… Avec le Philips OneBlade 360, je taille, je fais les contours, et je garde Bernard. <long pause> Il est à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune homme avec un accent du sud de la France, comique et très expressif, voix forte et bien articulée ; une longue pause nette entre chaque réplique ; réplique 1 outré, il protège sa moustache comme un trésor, « Bernard » dit avec tendresse ; réplique 2 il soupire puis devient fier et efficace, « OneBlade » prononcé à l'anglaise « ouane-bléde » ; réplique 3 posé et clair ; réplique 4 complice face caméra, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
