@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "sl_lea",
+   "sp": "X",
+   "voice": "Zephyr",
+   "text": "Petit soft launch : je te présente quelqu'un. <long pause> Il est tout doré… et un peu mystérieux. <long pause> Je te présente le Confidential Private Gold de Lattafa. <long pause> Et en plus, il coûte moins de vingt-cinq euros. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune femme française de 22 ans, influenceuse amoureuse qui fait une annonce à ses abonnés, sketch comique TikTok, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique séparée par une pause ; réplique 1 chuchotée et complice puis excitée, comme un secret qu'on révèle, « soft launch » prononcé à l'anglaise ; réplique 2 rêveuse et charmée, elle soupire d'amour sur « tout doré », taquine sur « mystérieux » ; réplique 3 grande révélation fière et théâtrale, « Confidential Private Gold » prononcé à l'anglaise, « Lattafa » bien net ; réplique 4 posée, contente, sourire dans la voix ; réplique 5 complice face caméra, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "sl_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "Attends, c'est qui ? Montre-moi son visage ! <long pause> Quoi ? C'est un parfum ?! <long pause> Et toi, tu ferais le soft launch de quoi ? Dis-le en commentaire.",
+   "style": "jeune femme française de 23 ans, meilleure amie curieuse, sketch comique TikTok, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique ; réplique 1 surexcitée et impatiente, elle veut absolument savoir, presque en criant ; réplique 2 choquée puis éclat de rire, incrédule ; réplique 3 face caméra, joueuse et curieuse, elle lance la question au spectateur, « soft launch » prononcé à l'anglaise"
+  }
+ ]
+}
