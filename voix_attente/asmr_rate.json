@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "ar_lea",
+   "sp": "L",
+   "voice": "Zephyr",
+   "text": "Chut… Mets le son, je te fais un ASMR dentifrice. <long pause> Écoute le petit bouchon… <long pause> Et maintenant… la pâte. <long pause> Hamza… on chuchote. <long pause> Et toi, l'ASMR, ça te détend ou ça t'énerve ? Dis-le en commentaire.",
+   "style": "jeune femme de dessin animé qui fait une vidéo ASMR : voix chuchotée, douce, très proche du micro, mais chaque mot reste bien articulé et compréhensible ; une longue pause nette entre chaque phrase ; phrase 1 calme et complice, « ASMR » prononcé a-èss-èm-èr ; phrase 2 émerveillée, tout doucement ; phrase 3 lente, presque hypnotique ; phrase 4 agacée, les dents serrées, toujours en chuchotant, elle se retient de crier ; phrase 5 elle s'adresse au spectateur avec un petit sourire taquin, chuchotement clair"
+  },
+  {
+   "id": "ar_hamza",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "OH ! C'est le Miswak ?! <long pause> Pardon… Il est aux plantes, avec de l'extrait pur d'Al-Arak. <long pause> Sur la boîte, c'est écrit : des dents fortes, des gencives saines… et une haleine fraîche ! <long pause> Il coûte moins de cinq euros. Le lien est juste en dessous, sur le panier orange.",
+   "style": "petit personnage de dessin animé avec un fort accent du sud de la France, très expressif, comique ; une longue pause nette entre chaque phrase ; phrase 1 il débarque en CRIANT de joie, très fort, comme un supporter de foot ; phrase 2 il fait semblant de chuchoter mais trop fort, gêné, « Al-Arak » bien articulé ; phrase 3 il commence en chuchotant puis s'emballe et crie de nouveau sur « haleine fraîche » ; phrase 4 voix normale, joyeuse et complice face caméra, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
