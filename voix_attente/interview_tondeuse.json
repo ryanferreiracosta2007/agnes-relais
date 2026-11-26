@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "it_ines",
+   "sp": "I",
+   "voice": "Leda",
+   "text": "Micro-trottoir ! Aujourd'hui, j'interviewe une tondeuse. <long pause> Question une : tu sers à quoi ? <long pause> Question deux : et à contre-sens, ça donne quoi ? <long pause> Question trois : tu coupes la peau ? <long pause> Dernière question : tu coûtes combien ? <long pause> Et toi, tu lui poserais quelle question ? Écris-la en commentaire. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune journaliste de dessin animé qui fait un micro-trottoir, pétillante, rapide, très expressive, voix forte et bien articulée ; une longue pause nette entre chaque phrase ; phrase 1 elle crie avec énergie comme une présentatrice de télé qui lance l'émission, puis complice et amusée ; phrase 2 curieuse, journaliste sérieuse qui tend le micro ; phrase 3 un peu sceptique, sourcils levés ; phrase 4 elle chuchote presque, inquiète, comme une question gênante ; phrase 5 malicieuse, comme si elle posait la question qui fâche ; phrase 6 elle s'adresse directement au spectateur, joueuse, comme un défi ; phrase 7 complice, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "it_ob",
+   "sp": "O",
+   "voice": "Algenib",
+   "text": "Je taille, je fais les contours et je rase. Quelle que soit la longueur. <long pause> Ma lame glisse en douceur, même à contre-sens. <long pause> Non. Je suis conçu pour couper les poils, pas la peau. <long pause> Je suis le Philips OneBlade 360. Cinquante euros quatre-vingt-dix-neuf… et vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche.",
+   "style": "personnage de dessin animé : une tondeuse qui parle, voix grave et rocailleuse, très sûre d'elle, un peu frimeuse et drôle, bien articulée, rythme assez rapide ; une longue pause nette entre chaque phrase ; phrase 1 fière, elle énumère en détachant chaque mot comme un champion ; phrase 2 suave, détendue, comme une star ; phrase 3 elle répond « Non. » vexée et sèche, puis sérieuse et calme ; phrase 4 elle se présente fièrement, « Philips OneBlade » prononcé à l'anglaise fi-lips ouane-bléde, « trois cent soixante » bien net, les prix lents et très bien articulés, petite pause avant le second prix dit avec un sourire"
+  }
+ ]
+}
