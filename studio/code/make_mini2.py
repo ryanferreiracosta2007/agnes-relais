@@ -1,9 +1,9 @@
 import sys, subprocess, render as R, audio as A, make_nuit as MN
-import mb_videos as MBV, mini2 as M2, rf_videos as RV, pb_videos as PV, tb_videos as TBV, ss_videos as SSV, fm_videos as FMV, sl_videos as SLV
+import mb_videos as MBV, it_videos as ITV, mini2 as M2, rf_videos as RV, pb_videos as PV, tb_videos as TBV, ss_videos as SSV, fm_videos as FMV, sl_videos as SLV
 from PIL import Image
 import cairo
 from ink import W, H
-VIDS = {'sl': (SLV.build_sl, 'Parfum_Soft_Launch_Nouveau_Crush', 104), 'mb': (MBV.build_mb, 'Dentifrice_Miswak_Cest_un_Baton', 108), 'gal': (PV.build_gal, 'Rasoir_3_Galeres', 116), 'date': (PV.build_date, 'Rasoir_POV_Rendez_Vous', 98), 'doc': (RV.build_doc, 'Rasoir_Documentaire_Poils', 100), 'gerard': (RV.build_g, 'Rasoir_Gerard_la_Barbe', 108), 'dent': (M2.build_dent, 'Dentifrice_Mini_Hamza', 112), 'parf': (M2.build_parf, 'Parfum_Mini_Lea_Noel', 104), 'tb': (TBV.build_tb, 'Dentifrice_Team_Brosse_Mouillee_ou_Seche', 110), 'ss': (SSV.build_ss, 'Parfum_Secret_Santa_Bureau', 106), 'fm': (FMV.build_fm, 'Rasoir_Fin_de_Movember_Bernard', 112)}
+VIDS = {'it': (ITV.build_it, 'Rasoir_Micro_Trottoir_Interview_Tondeuse', 106), 'sl': (SLV.build_sl, 'Parfum_Soft_Launch_Nouveau_Crush', 104), 'mb': (MBV.build_mb, 'Dentifrice_Miswak_Cest_un_Baton', 108), 'gal': (PV.build_gal, 'Rasoir_3_Galeres', 116), 'date': (PV.build_date, 'Rasoir_POV_Rendez_Vous', 98), 'doc': (RV.build_doc, 'Rasoir_Documentaire_Poils', 100), 'gerard': (RV.build_g, 'Rasoir_Gerard_la_Barbe', 108), 'dent': (M2.build_dent, 'Dentifrice_Mini_Hamza', 112), 'parf': (M2.build_parf, 'Parfum_Mini_Lea_Noel', 104), 'tb': (TBV.build_tb, 'Dentifrice_Team_Brosse_Mouillee_ou_Seche', 110), 'ss': (SSV.build_ss, 'Parfum_Secret_Santa_Bureau', 106), 'fm': (FMV.build_fm, 'Rasoir_Fin_de_Movember_Bernard', 112)}
 name, mode = sys.argv[1], sys.argv[2]
 build, out, bpm = VIDS[name]; shots, mute = build(); sh = shots[0]
 if mode == 'stills':
