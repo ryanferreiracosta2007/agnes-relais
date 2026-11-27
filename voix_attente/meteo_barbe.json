@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "mb2_lea",
+   "sp": "X",
+   "voice": "Zephyr",
+   "text": "Bulletin météo de ta barbe ! <long pause> Alerte orange : des poils partout sur le cou. <long pause> Heureusement, une éclaircie arrive : le Philips OneBlade 360. <long pause> Il taille, il fait les contours et il rase. <long pause> Il est à cinquante euros quatre-vingt-dix-neuf, et à vingt-neuf euros quatre-vingt-dix-neuf avec les coupons de la fiche. <long pause> Le lien est juste en dessous, sur le panier orange. <long pause> Et chez toi, c'est soleil, nuages ou tempête ? Dis-le en commentaire.",
+   "style": "jeune femme française de 24 ans, présentatrice météo de télévision très enjouée et un peu théâtrale, parodie comique TikTok, voix claire, forte et bien articulée, sourire dans la voix ; une longue pause nette entre chaque réplique ; réplique 1 annonce de journal télé, énergique, musicale, face caméra ; réplique 2 ton dramatique de bulletin d'alerte, sérieux exagéré, « alerte orange » appuyé ; réplique 3 soulagée et radieuse comme si le soleil revenait, « Philips » bien net, « OneBlade » prononcé à l'anglaise ouane-bléde, « trois cent soixante » bien net ; réplique 4 rythmée, trois temps nets ; réplique 5 posée et claire, chaque prix bien net ; réplique 6 complice face caméra, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net ; réplique 7 joueuse et curieuse, elle lance la question au spectateur"
+  },
+  {
+   "id": "mb2_hamza",
+   "sp": "X",
+   "voice": "Fenrir",
+   "text": "Eh ! C'est pas une tempête, c'est mon style ! <long pause> Bon… d'accord. Ciel dégagé.",
+   "style": "homme français de 25 ans avec un accent du sud de la France chantant, sketch comique TikTok, jeu d'acteur exagéré, voix forte ; une longue pause nette entre les deux répliques ; réplique 1 vexé et indigné, il proteste en défendant sa barbe, très drôle ; réplique 2 il se regarde après le rasage, d'abord hésitant puis bluffé et ravi, presque ému, « ciel dégagé » dit avec fierté"
+  }
+ ]
+}
