@@ -1,0 +1,24 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "dp_ines",
+   "sp": "X",
+   "voice": "Leda",
+   "text": "Tu crois encore aux promos du Black Friday ? <long pause> Sauf lui. Le Confidential Private Gold de Lattafa. <long pause> Pas de pourcentage magique : il coûte moins de vingt-cinq euros. <long pause> Le lien est juste en dessous, sur le panier orange. <long pause> Et toi, tu crois encore aux promos ? Dis-le en commentaire.",
+   "style": "jeune femme française de 23 ans, enquêtrice blasée et drôle qui démasque les fausses promos, sketch comique TikTok, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque réplique ; réplique 1 face caméra, sourcil levé, sceptique et taquine, question rapide et percutante, « Black Friday » prononcé à l'anglaise ; réplique 2 « Sauf lui » soudain radouci et surpris, puis fière et charmée, « Confidential Private Gold » prononcé à l'anglaise, « Lattafa » bien net ; réplique 3 posée et satisfaite, sourire dans la voix, « vingt-cinq euros » bien net ; réplique 4 complice face caméra, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net ; réplique 5 joueuse et curieuse, elle lance la question au spectateur"
+  },
+  {
+   "id": "dp_david",
+   "sp": "X",
+   "voice": "Puck",
+   "text": "Black Friday ! Moins quatre-vingt-dix pour cent sur tout ! <long pause> Euh… sur presque tout ? <long pause> Bon, d'accord… c'était le prix normal.",
+   "style": "homme français de 30 ans, vendeur de foire surexcité et pas très honnête, sketch comique TikTok, voix forte et bien articulée, jeu d'acteur exagéré ; une longue pause nette entre chaque réplique ; réplique 1 crié comme un bonimenteur de marché, énorme énergie, « Black Friday » prononcé à l'anglaise, « quatre-vingt-dix pour cent » bien net ; réplique 2 hésitant, petite voix gênée, il se fait prendre ; réplique 3 il avoue, penaud et vaincu, soupir, très drôle"
+  }
+ ]
+}
