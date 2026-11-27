@@ -1,0 +1,17 @@
+{
+ "voices": {},
+ "models": [
+  "gemini-3.8-flash-tts",
+  "gemini-3.1-flash-tts-preview",
+  "gemini-3.8-flash-lite-tts"
+ ],
+ "lines": [
+  {
+   "id": "mb3_lea",
+   "sp": "X",
+   "voice": "Zephyr",
+   "text": "Et maintenant, la météo de ta barbe !",
+   "style": "jeune femme française de 24 ans, présentatrice météo de télévision très enjouée et un peu théâtrale, parodie comique TikTok, voix claire, forte et très bien articulée, sourire dans la voix, annonce de journal télé énergique et musicale face caméra, chaque mot bien net, débit rapide"
+  }
+ ]
+}
