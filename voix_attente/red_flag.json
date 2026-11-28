@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "rf_ines",
+   "sp": "I",
+   "voice": "Leda",
+   "text": "Tu fouilles la salle de bain de ton date ? <long pause> Le tube de dentifrice écrasé au milieu… Red flag. <long pause> La brosse à dents toute écrabouillée… Red flag ! <long pause> Attends… un dentifrice aux plantes, avec de l'extrait pur d'Al-Arak ? <long pause> Green flag. <long pause> Et toi, ton red flag dans une salle de bain, c'est quoi ? Dis-le en commentaire.",
+   "style": "jeune femme de dessin animé, détective amoureuse, drôle et très expressive ; une longue pause nette entre chaque phrase ; phrase 1 chuchotée, complice et coquine, comme si elle entrait en cachette ; phrase 2 dégoûtée, puis « Red flag » prononcé à l'anglaise rède flague, sec et définitif ; phrase 3 encore plus dégoûtée, « Red flag » crié, choquée ; phrase 4 surprise, la voix qui monte, intriguée, « Al-Arak » bien articulé ; phrase 5 « Green flag » prononcé grine flague, charmée, avec un petit soupir amoureux ; phrase 6 elle s'adresse au spectateur, taquine et souriante, bien claire"
+  },
+  {
+   "id": "rf_hamza",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Attends, attends ! Ne juge pas trop vite… regarde plutôt ça ! <long pause> Sur la boîte, c'est écrit : des dents fortes, des gencives saines et une haleine fraîche. <long pause> Il coûte moins de cinq euros. Le lien est juste en dessous, sur le panier orange.",
+   "style": "petit personnage de dessin animé avec un fort accent du sud de la France, très expressif et comique ; une longue pause nette entre chaque phrase ; phrase 1 il débarque paniqué et essoufflé, il se défend, puis fier en montrant quelque chose ; phrase 2 fier comme un coq, il lit la boîte en détachant chaque mot ; phrase 3 voix normale, joyeuse et complice face caméra, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
