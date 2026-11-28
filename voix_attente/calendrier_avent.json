@@ -1,0 +1,20 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "ca_sarah",
+   "sp": "S",
+   "voice": "Aoede",
+   "text": "POV : tu ouvres ton calendrier de l'Avent. <long pause> Case un : un tout petit chocolat. <long pause> Case deux… encore un tout petit chocolat. <long pause> Quoi ?! Le Confidential Private Gold de Lattafa ?! <long pause> Et toi, tu préfères vingt-quatre petits chocolats, ou un seul vrai cadeau ? Dis-le en commentaire. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "jeune femme française de 24 ans, personnage de dessin animé, sketch comique TikTok de Noël, voix forte et bien articulée, jeu d'actrice exagéré ; une longue pause nette entre chaque phrase séparée par une pause ; phrase 1 enjouée et pleine d'attente, « POV » prononcé pé-o-vé ; phrase 2 déçue, elle constate, petite moue, « tout petit » appuyé ; phrase 3 blasée, elle soupire longuement ; phrase 4 choc total puis émerveillement, « Confidential Private Gold » prononcé à l'anglaise, « Lattafa » bien net ; phrase 5 face caméra, joueuse, elle lance le défi au spectateur ; phrase 6 complice, « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  },
+  {
+   "id": "ca_hamza",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Attends ! Saute direct à la case vingt-quatre ! <long pause> Un vrai cadeau, tout doré… et il coûte moins de vingt-cinq euros !",
+   "style": "petit personnage de dessin animé avec un fort accent du sud de la France, très expressif, voix forte et bien articulée, comique ; une longue pause nette entre les deux phrases ; phrase 1 il débarque en criant, impatient et malin, comme s'il avait un secret ; phrase 2 fier et content, il présente le cadeau, « moins de vingt-cinq euros » bien articulé, il finit en criant de joie"
+  }
+ ]
+}
