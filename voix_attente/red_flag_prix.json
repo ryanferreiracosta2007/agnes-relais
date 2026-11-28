@@ -1,0 +1,13 @@
+{
+ "voices": {},
+ "models": ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"],
+ "lines": [
+  {
+   "id": "rf_hprix",
+   "sp": "H",
+   "voice": "Fenrir",
+   "text": "Et en plus, il coûte moins de cinq euros. <long pause> Le lien est juste en dessous, sur le panier orange.",
+   "style": "petit personnage de dessin animé avec un accent du sud de la France, joyeux et complice face caméra, voix normale ; articule très nettement « il coûte » (il-coûte, deux mots bien séparés) ; une longue pause nette entre les deux phrases ; « en dessous » bien net, « panier » prononcé pa-nier puis « orange » bien net"
+  }
+ ]
+}
